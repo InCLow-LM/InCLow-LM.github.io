@@ -25,6 +25,7 @@ jobs:
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
+    timeout-minutes: 1
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -58,6 +59,7 @@ jobs:
 
   # Deploy website to GitHub Pages hosting
   deploy:
+    timeout-minutes: 1
     if: github.repository_owner != 'HugoBlox'
     environment:
       name: github-pages
