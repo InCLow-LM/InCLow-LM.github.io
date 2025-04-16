@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-04-16
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        InCLow
-        Research Group
+        InCLow Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **InCLow Research Group** is a research group at [CLCG](https://www.rug.nl/research/clcg/research/cl/members/list-of-members), Faculty of Art, University of Groningen. We are a group of people with the interest in (Multilingual) LM, model interpretability, efficient model training (e.g. BabyLM).
+        **InCLow** is a research group at [CLCG](https://www.rug.nl/research/clcg/research/cl/members/list-of-members), University of Groningen. We are a group of people with the interest in (Multilingual) LM, model interpretability, BabyLM challenges.
   
   - block: collection
     content:
