@@ -7,8 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        InCLow Research Group
+      # title: InCLow Research Group
       image:
         filename: welcome.jpg
       text: |
@@ -32,7 +31,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      # view: card
       columns: '1'
   
   # - block: markdown
