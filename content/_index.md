@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **InCLow Research Group** is a .
+        The **InCLow Research Group** is a research group at [CLCG](https://www.rug.nl/research/clcg/research/cl/members/list-of-members), Faculty of Art, University of Groningen. We are a group of people with the interest in (Multilingual) LM, model interpretability, efficient model training (e.g. BabyLM).
   
   - block: collection
     content:
@@ -36,25 +36,25 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: coders.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 
   - block: collection
     content:
