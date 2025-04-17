@@ -45,10 +45,9 @@ jobs:
           title: Hugo Blox Builder - Import latest publications
           body: |
             Import the latest publications from `publications.bib` to `content/publication/`.
-            将最新的出版物从`publications.bib`导入到`content/publication/`。
             [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
-          labels: automated-pr, content, automerge
+          labels: automerge, automated-pr, content
           branch: hugoblox-import-publications
           delete-branch: true
       - name: Check outputs
@@ -56,3 +55,16 @@ jobs:
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+      - name: automerge
+        if: ${{ steps.cpr.outputs.pull-request-number }}
+        id: automerge
+        uses: "pascalgn/automerge-action@v0.16.4"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+      - name: Check automerge
+        run: |
+          echo "${{ steps.automerge.outputs }}"
+          echo "${{ steps.automerge.outputs.pull-request-number }}"
+          echo "${{ steps.automerge.outputs.pull-request-url }}"
+          echo "${{ steps.automerge.outputs.pull-request-merge-result }}"
+          echo "${{ steps.automerge.outputs.pull-request-merge-result-description }}"
