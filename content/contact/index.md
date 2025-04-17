@@ -23,9 +23,7 @@ sections:
         Find out more and apply [HERE](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000B8PP)
         **********************************************************************************
   - block: contact
-    content:   
-      email: test@example.org
-      phone: +31 (0)50 363 5901
+    content:
       address:
         street: Oude Kijk in 't Jatstraat 26
         city: Groningen
@@ -38,10 +36,10 @@ sections:
         longitude: '6.560756'
       directions: 4th Floor, Harmonie complex
       opening_hours:
-        # - 'Monday 10:00 to 13:00'
-        # - 'Wednesday 09:00 to 10:00'
-        - 'Monday - Thursday: 08:00 - 22:00'
+        - 'Monday to Thursday: 08:00 - 22:00'
         - 'Friday: 08:00 - 18:00'
+      email: test@example.org
+      phone: +31 (0)50 363 5901
       # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
