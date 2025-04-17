@@ -47,7 +47,7 @@ jobs:
             Import the latest publications from `publications.bib` to `content/publication/`.
             [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
-          labels: automerge, automated-pr, content
+          labels: automated-pr, content
           branch: hugoblox-import-publications
           delete-branch: true
       - name: Check outputs
