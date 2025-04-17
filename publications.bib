@@ -1,43 +1,73 @@
-@misc{https://doi.org/10.48550/arxiv.2504.00597,  doi = {10.48550/ARXIV.2504.00597},  url = {https://arxiv.org/abs/2504.00597},  author = {Qi, Jirui and Fernández, Raquel and Bisazza, Arianna},  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},  title = {On the Consistency of Multilingual Context Utilization in Retrieval-Augmented Generation},  publisher = {arXiv},  year = {2025},  copyright = {Creative Commons Attribution 4.0 International}},
-@inproceedings{f719d93eca374965b93569bc53a48a4f,
-  title     = "Democratizing Advanced Attribution Analyses of Generative Language Models with the Inseq Toolkit",
-  abstract  = "Inseq1 is a recent toolkit providing an intuitive and optimized interface to conduct feature attribution analyses of generative language models. In this work, we present the latest improvements to the library, including efforts to simplify the attribution of large language models on consumer hardware, additional attribution approaches, and a new client command to detect and attribute context usage in language model generations. We showcase an online demo using Inseq as an attribution backbone for context reliance analysis, and we highlight interesting contextual patterns in language model generations. Ultimately, this release furthers Inseq{\textquoteright}s mission of centralizing good interpretability practices and enabling fair and reproducible model evaluations.",
-  keywords  = "Feature Attribution, Generative Language Models, Natural Language Processing, Python Toolkit",
-  author    = "Gabriele Sarti and Nils Feldhus and Jirui Qi and Malvina Nissim and Arianna Bisazza",
-  note      = "Publisher Copyright: {\textcopyright} 2024 Copyright for this paper by its authors.; Joint of the 2nd World Conference on eXplainable Artificial Intelligence Late-Breaking Work, Demos and Doctoral Consortium, xAI-2024:LB/D/DC ; Conference date: 17-07-2024 Through 19-07-2024",
-  year      = "2024",
-  language  = "English",
-  series    = "CEUR Workshop Proceedings",
-  publisher = "CEUR Workshop Proceedings (CEUR-WS.org)",
-  pages     = "289--296",
-  editor    = "Luca Longo and Weiru Liu and Gr{\'e}goire Montavon",
-  booktitle = "xAI-2024 Late-breaking Work, Demos and Doctoral Consortium Joint Proceedings",
+@article{qi2025consistency,
+  title={On the Consistency of Multilingual Context Utilization in Retrieval-Augmented Generation},
+  author={Qi, Jirui and Fern{\'a}ndez, Raquel and Bisazza, Arianna},
+  journal={arXiv preprint arXiv:2504.00597},
+  year={2025}
 },
-@inproceedings{ed2c4a6c889f4c49b0a0b77197c2b47b,
-  title     = "Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation",
-  abstract  = "Ensuring the verifiability of model answers is a fundamental challenge for retrieval-augmented generation (RAG) in the question answering (QA) domain. Recently, self-citation prompting was proposed to make large language models (LLMs) generate citations to supporting documents along with their answers. However, self-citing LLMs often struggle to match the required format, refer to non-existent sources, and fail to faithfully reflect LLMs' context usage throughout the generation. In this work, we present MIRAGE --Model Internals-based RAG Explanations -- a plug-and-play approach using model internals for faithful answer attribution in RAG applications. MIRAGE detects context-sensitive answer tokens and pairs them with retrieved documents contributing to their prediction via saliency methods. We evaluate our proposed approach on a multilingual extractive QA dataset, finding high agreement with human answer attribution. On open-ended QA, MIRAGE achieves citation quality and efficiency comparable to self-citation while also allowing for a finer-grained control of attribution parameters. Our qualitative evaluation highlights the faithfulness of MIRAGE's attributions and underscores the promising application of model internals for RAG answer attribution.",
-  keywords  = "cs.CL, cs.AI, cs.LG",
-  author    = "Jirui Qi and Gabriele Sarti and Raquel Fern{\'a}ndez and Arianna Bisazza",
-  year      = "2024",
-  doi       = "10.18653/v1/2024.emnlp-main.347",
-  language  = "English",
-  pages     = "6037--6053",
-  editor    = "Yaser Al-Onaizan and Mohit Bansal and Yun-Nung Chen",
-  booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
-  publisher = "Association for Computational Linguistics (ACL)",
+@inproceedings{sarti2024democratizing,
+  title={Democratizing Advanced Attribution Analyses of Generative Language Models with the Inseq Toolkit},
+  author={Sarti, Gabriele and Feldhus, Nils and Qi, Jirui and Nissim, Malvina and Bisazza, Arianna},
+  booktitle={Joint of the 2nd World Conference on eXplainable Artificial Intelligence Late-Breaking Work, Demos and Doctoral Consortium, xAI-2024: LB/D/DC},
+  pages={289--296},
+  year={2024},
+  organization={CEUR Workshop Proceedings (CEUR-WS. org)}
 },
- @inproceedings{Chen_2024, title={The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models}, url={http://dx.doi.org/10.18653/v1/2024.findings-emnlp.92}, DOI={10.18653/v1/2024.findings-emnlp.92}, booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024}, publisher={Association for Computational Linguistics}, author={Chen, Xinyi and Liao, Baohao and Qi, Jirui and Eustratiadis, Panagiotis and Monz, Christof and Bisazza, Arianna and de Rijke, Maarten}, year={2024}, pages={1691–1706} }
-,
-@inproceedings{dafbb4f37d7a454790f0fadb17dda0c5,
-  title     = "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models",
-  abstract  = "Multilingual large-scale Pretrained Language Models (PLMs) have been shown to store considerable amounts of factual knowledge, but large variations are observed across languages. With the ultimate goal of ensuring that users with different language backgrounds obtain consistent feedback from the same model, we study the cross-lingual consistency (CLC) of factual knowledge in various multilingual PLMs. To this end, we propose a Ranking-based Consistency (RankC) metric to evaluate knowledge consistency across languages independently from accuracy. Using this metric, we conduct an in-depth analysis of the determining factors for CLC, both at model level and at language-pair level. Among other results, we find that increasing model size leads to higher factual probing accuracy in most languages, but does not improve cross-lingual consistency. Finally, we conduct a case study on CLC when new factual associations are inserted in the PLMs via model editing. Results on a small sample of facts inserted in English reveal a clear pattern whereby the new piece of knowledge transfers only to languages with which English has a high RankC score.",
-  author    = "Jirui Qi and Raquel Fern{\'a}ndez and Arianna Bisazza",
-  note      = "Publisher Copyright: {\textcopyright}2023 Association for Computational Linguistics.; 2023 Conference on Empirical Methods in Natural Language Processing, EMNLP 2023 ; Conference date: 06-12-2023 Through 10-12-2023",
-  year      = "2023",
-  doi       = "10.18653/v1/2023.emnlp-main.658",
-  language  = "English",
-  pages     = "10650--10666",
-  editor    = "Houda Bouamor and Juan Pino and Kalika Bali",
-  booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
-  publisher = "Association for Computational Linguistics, ACL Anthology",
+@inproceedings{qi-etal-2024-model,
+    title = "Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation",
+    author = "Qi, Jirui  and
+      Sarti, Gabriele  and
+      Fern{\'a}ndez, Raquel  and
+      Bisazza, Arianna",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.347/",
+    doi = "10.18653/v1/2024.emnlp-main.347",
+    pages = "6037--6053",
+    abstract = "Ensuring the verifiability of model answers is a fundamental challenge for retrieval-augmented generation (RAG) in the question answering (QA) domain. Recently, self-citation prompting was proposed to make large language models (LLMs) generate citations to supporting documents along with their answers. However, self-citing LLMs often struggle to match the required format, refer to non-existent sources, and fail to faithfully reflect LLMs' context usage throughout the generation. In this work, we present MIRAGE {--} Model Internals-based RAG Explanations {--} a plug-and-play approach using model internals for faithful answer attribution in RAG applications. MIRAGE detects context-sensitive answer tokens and pairs them with retrieved documents contributing to their prediction via saliency methods. We evaluate our proposed approach on a multilingual extractive QA dataset, finding high agreement with human answer attribution. On open-ended QA, MIRAGE achieves citation quality and efficiency comparable to self-citation while also allowing for a finer-grained control of attribution parameters. Our qualitative evaluation highlights the faithfulness of MIRAGE`s attributions and underscores the promising application of model internals for RAG answer attribution. Code and data released at https://github.com/Betswish/MIRAGE."
+},
+@inproceedings{chen-etal-2024-sifo,
+    title = "The {SIF}o Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models",
+    author = "Chen, Xinyi  and
+      Liao, Baohao  and
+      Qi, Jirui  and
+      Eustratiadis, Panagiotis  and
+      Monz, Christof  and
+      Bisazza, Arianna  and
+      de Rijke, Maarten",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.92/",
+    doi = "10.18653/v1/2024.findings-emnlp.92",
+    pages = "1691--1706",
+    abstract = "Following multiple instructions is a crucial ability for large language models (LLMs). Evaluating this ability comes with significant challenges: (i) limited coherence between multiple instructions, (ii) positional bias where the order of instructions affects model performance, and (iii) a lack of objectively verifiable tasks. To address these issues, we introduce a benchmark designed to evaluate models' abilities to follow multiple instructions through sequential instruction following (SIFo) tasks. In SIFo, the successful completion of multiple instructions is verifiable by examining only the final instruction. Our benchmark evaluates instruction following using four tasks (text modification, question answering, mathematics, and security rule following), each assessing different aspects of sequential instruction following. Our evaluation of popular LLMs, both closed-source and open-source, shows that more recent and larger models significantly outperform their older and smaller counterparts on the SIFo tasks, validating the benchmark`s effectiveness. All models struggle with following sequences of instructions, hinting at an important lack of robustness of today`s language models."
+},
+@inproceedings{qi-etal-2023-cross,
+    title = "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models",
+    author = "Qi, Jirui  and
+      Fern{\'a}ndez, Raquel  and
+      Bisazza, Arianna",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.658/",
+    doi = "10.18653/v1/2023.emnlp-main.658",
+    pages = "10650--10666",
+    abstract = "Multilingual large-scale Pretrained Language Models (PLMs) have been shown to store considerable amounts of factual knowledge, but large variations are observed across languages. With the ultimate goal of ensuring that users with different language backgrounds obtain consistent feedback from the same model, we study the cross-lingual consistency (CLC) of factual knowledge in various multilingual PLMs. To this end, we propose a Ranking-based Consistency (RankC) metric to evaluate knowledge consistency across languages independently from accuracy. Using this metric, we conduct an in-depth analysis of the determining factors for CLC, both at model level and at language-pair level. Among other results, we find that increasing model size leads to higher factual probing accuracy in most languages, but does not improve cross-lingual consistency. Finally, we conduct a case study on CLC when new factual associations are inserted in the PLMs via model editing. Results on a small sample of facts inserted in English reveal a clear pattern whereby the new piece of knowledge transfers only to languages with which English has a high RankC score. All code and data are released at https://github.com/Betswish/Cross-Lingual-Consistency."
 }
