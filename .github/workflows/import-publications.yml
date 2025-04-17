@@ -48,7 +48,7 @@ jobs:
             将最新的出版物从`publications.bib`导入到`content/publication/`。
             [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
-          labels: automated-pr, content
+          labels: automated-pr, content, automerge
           branch: hugoblox-import-publications
           delete-branch: true
           # auto-merge: true    # Automatically enable auto-merge
@@ -59,6 +59,7 @@ jobs:
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
       - name: automerge
+        if: ${{ steps.cpr.outputs.pull-request-number }}
         id: automerge
         uses: "pascalgn/automerge-action@v0.16.4"
         env:
