@@ -10,7 +10,7 @@ authors:
 - Arianna Bisazza
 - Maarten de Rijke
 date: '2024-11-01'
-publishDate: '2025-04-17T16:15:39.669252Z'
+publishDate: '2025-04-17T16:56:51.650174Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: EMNLP 2024*'
@@ -27,9 +27,9 @@ abstract: "Following multiple instructions is a crucial ability for large langua
   rule following), each assessing different aspects of sequential instruction following.
   Our evaluation of popular LLMs, both closed-source and open-source, shows that more
   recent and larger models significantly outperform their older and smaller counterparts
-  on the SIFo tasks, validating the benchmark`s effectiveness. All models struggle
+  on the SIFo tasks, validating the benchmark's effectiveness. All models struggle
   with following sequences of instructions, hinting at an important lack of robustness
-  of today`s language models."
+  of today's language models."
 links:
 - name: URL
   url: https://aclanthology.org/2024.findings-emnlp.92/
