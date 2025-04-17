@@ -12,6 +12,7 @@ on:
       - reopened
       - unlocked
     branches:
+      - main
       - 'hugoblox-import-publications'
 jobs:
   automerge:
