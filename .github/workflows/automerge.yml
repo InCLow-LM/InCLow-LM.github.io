@@ -1,5 +1,6 @@
 name: automerge
 on:
+  workflow_dispatch:
   pull_request:
     types:
       - labeled
@@ -10,7 +11,8 @@ on:
       - ready_for_review
       - reopened
       - unlocked
-  workflow_dispatch:
+    branches:
+      - 'hugoblox-import-publications'
 jobs:
   automerge:
     runs-on: ubuntu-latest
