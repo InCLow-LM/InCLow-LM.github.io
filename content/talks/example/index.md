@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: Example Talk
 
-event: Wowchemy Conference
+event: Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: HQ
 address:
   street: 450 Serra Mall
   city: Stanford

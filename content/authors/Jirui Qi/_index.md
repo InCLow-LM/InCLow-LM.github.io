@@ -2,6 +2,11 @@
 # Display name
 title: Jirui Qi
 
+# Which year are you in?
+# It's used for sorting in each group (Prof/Postdoc/PhD)
+# e.g. 3rd year PhD should enter 3; 2nd Postdoc should enter 2
+year: 3
+
 # Full name (for SEO)
 first_name: Jirui
 last_name: Qi
@@ -70,7 +75,7 @@ email: 'j.qi@rug.nl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Administration
+  - PhD
   # - Visitors
 ---
 

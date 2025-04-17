@@ -14,10 +14,11 @@ sections:
           # - Principal Investigators
           # - Researchers
           - Professor
-          - Administration
+          - Postdoc
+          - PhD
           - Visitor
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.year
       sort_ascending: true
     design:
       show_interests: false
