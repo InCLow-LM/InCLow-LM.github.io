@@ -51,6 +51,8 @@ jobs:
           labels: automated-pr, content
           branch: hugoblox-import-publications
           delete-branch: true
+          auto-merge: true    # Automatically enable auto-merge
+          merge-method: squash # Merge method (options: merge, squash, rebase)
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
         run: |
