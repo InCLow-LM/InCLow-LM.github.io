@@ -55,16 +55,4 @@ jobs:
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
-      - name: automerge
-        if: ${{ steps.cpr.outputs.pull-request-number }}
-        id: automerge
-        uses: "pascalgn/automerge-action@v0.16.4"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-      - name: Check automerge
-        run: |
-          echo "${{ steps.automerge.outputs }}"
-          echo "${{ steps.automerge.outputs.pull-request-number }}"
-          echo "${{ steps.automerge.outputs.pull-request-url }}"
-          echo "${{ steps.automerge.outputs.pull-request-merge-result }}"
-          echo "${{ steps.automerge.outputs.pull-request-merge-result-description }}"
+ 
