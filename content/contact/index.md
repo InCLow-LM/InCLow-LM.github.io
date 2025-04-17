@@ -7,11 +7,9 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Vacancies
+      title: 4-year PhD opening!
       text: |-
-        **********************************************************************************
-        4-year PhD opening!
-        **********************************************************************************
+        **********************************************************************************        
         Project goal: Developing computational models for the acquisition of modal verbs and their various meanings.
         
         This is an interdisciplinary project bringing together the fields of language acquisition and computational linguistics.
@@ -23,7 +21,6 @@ sections:
         Application deadline: 24 April 2025.   
         
         Find out more and apply [HERE](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000B8PP)
-        **********************************************************************************
         **********************************************************************************
   - block: contact
     content:   
