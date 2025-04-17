@@ -20,5 +20,5 @@ main:
     url: talks
     weight: 40
   - name: Vacancies
-    url: contact
+    url: vacancies
     weight: 60
