@@ -10,16 +10,23 @@ sections:
       title: Vacancies
       text: |-
         **********************************************************************************
-        ###########      4-year PhD opening!      ###########
+        4-year PhD opening!
         **********************************************************************************
         Project goal: Developing computational models for the acquisition of modal verbs and their various meanings.
+        
         This is an interdisciplinary project bringing together the fields of language acquisition and computational linguistics.
+        
         Supervisory team: [Annemarie van Dooren](https://annemarievandooren.com/), [Yevgen Matusevych](https://yevgen.web.rug.nl/), [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/).
+        
         Ideal candidates hold (or are in the process of obtaining) a Master degree in Computational Linguistics/Natural Language Processing, Cognitive Modeling, Psycholinguistics, or related areas.
+        
         Application deadline: 24 April 2025.   
+        
         Find out more and apply [HERE](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000B8PP)
         **********************************************************************************
         **********************************************************************************
+  - block: contact
+    content:   
       email: test@example.org
       phone: +31 (0)50 363 5901
       address:
