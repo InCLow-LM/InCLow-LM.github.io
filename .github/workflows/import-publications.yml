@@ -51,16 +51,8 @@ jobs:
           labels: automated-pr, content, automerge
           branch: hugoblox-import-publications
           delete-branch: true
-          # auto-merge: true    # Automatically enable auto-merge
-          # merge-method: squash # Merge method (options: merge, squash, rebase)
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
-      - name: automerge
-        if: ${{ steps.cpr.outputs.pull-request-number }}
-        id: automerge
-        uses: "pascalgn/automerge-action@v0.16.4"
-        env:
-          GITHUB_TOKEN: "${{ secrets.AUTO_MERGE }}"
