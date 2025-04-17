@@ -47,7 +47,7 @@ sections:
         # publication_type: 'article'
     design:
       view: citation
-      columns: '1'
+      columns: '3'
 
   - block: markdown
     content:
