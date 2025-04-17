@@ -33,7 +33,7 @@ sections:
       order: desc
       page_type: post
     design:
-      # view: card
+      view: card
       columns: '2'
 
   - block: collection
@@ -46,7 +46,8 @@ sections:
           - publication
         # publication_type: 'article'
     design:
-      view: citation
+      # view: citation
+      view: card
       columns: '3'
 
   - block: markdown
