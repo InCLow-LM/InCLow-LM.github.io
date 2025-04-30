@@ -40,7 +40,7 @@ sections:
     content:
       title: Latest Publications
       text: ""
-      count: 5
+      count: 15
       filters:
         folders:
           - publication
