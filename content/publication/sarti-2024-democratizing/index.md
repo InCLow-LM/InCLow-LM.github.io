@@ -8,7 +8,7 @@ authors:
 - Malvina Nissim
 - Arianna Bisazza
 date: '2024-01-01'
-publishDate: '2025-04-17T16:56:51.664807Z'
+publishDate: '2025-04-30T15:15:13.024254Z'
 publication_types:
 - paper-conference
 publication: '*Joint of the 2nd World Conference on eXplainable Artificial Intelligence
