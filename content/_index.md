@@ -18,7 +18,7 @@ sections:
         **Opening positions for 4-year PhD are available now! See [Here](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000B8PP)**
     
   # - block: collection
-  - block: lists
+  - block: markdown
     content:
       title: Latest Publications
       text: ""
