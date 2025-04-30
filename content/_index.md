@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        **InCLow** is a research group at [CLCG](https://www.rug.nl/research/clcg/research/cl/members/list-of-members), University of Groningen. Our work focuses on (Multilingual) LM, model interpretability, BabyLM challenges.
+        **InCLow** is a research group at [CLCG](https://www.rug.nl/research/clcg/research/cl/members/list-of-members), University of Groningen. We are a thriving team interested in (Multilingual) LM, model interpretability, and efficient training (BabyLM challenges).
 
         **Opening positions for 4-year PhD are available now! See [Here](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S000B8PP)**
     
@@ -22,7 +22,7 @@ sections:
     content:
       title: Latest Publications
       text: ""
-      count: 15
+      count: 10
       filters:
         folders:
           - publication
