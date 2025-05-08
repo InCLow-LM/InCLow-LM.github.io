@@ -6,7 +6,7 @@ authors:
 - Malvina Nissim
 - Arianna Bisazza
 date: '2024-12-01'
-publishDate: '2025-04-30T19:38:11.321534Z'
+publishDate: '2025-05-08T09:07:17.833047Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 10th Italian Conference on Computational Linguistics
