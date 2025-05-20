@@ -19,7 +19,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -30,9 +30,11 @@ organizations:
 # bio: My research interests 
 
 interests:
-  - 1
-  - 2
-  - 3
+  - Natural Language Processing
+  - Neural Model Interpretability
+  - Machine Translation and Multilinguality
+  - Efficient BabyLM Training
+  - Morphology
 
 # education:
 #   courses:
@@ -75,8 +77,13 @@ email: 'j.qi@rug.nl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD
+  - Professor
   # - Visitors
 ---
 
-Jirui Qi is a 3rd year PhD student at The University of Groningen. His research focuses on low-resource conversational tasks, with especial interests in retrieval augmented generation (RAG), cross-lingual/multilingual LMs, and efficient automatic prompt engineering.
+Arianna is Associate Professor in the Computational Linguistics Group of the University of Groningen.
+
+She is passionate about the statistical modeling of human languages, particularly in a multilingual context. Her long-term goal is to design robust language processing algorithms that can adapt to the large variety of linguistic phenomena observed around the world.
+Among others, she work towards improving the quality of Machine Translation for challenging language pairs, and making state-of-the art NLP models more interpretable.
+As a cross-disciplinary research enthusiast, she is interested in enhancing research on human language processing or language evolution with computational modeling tools.
+Last but not least, she enjoys observing, interacting with, and finding daily inspiration in my two daughters and their trilingual minds in the making.
