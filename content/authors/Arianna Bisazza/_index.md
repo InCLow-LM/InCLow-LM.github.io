@@ -57,9 +57,9 @@ social:
     icon_pack: fas
     link: 'mailto:a.bisazza@rug.nl'
   - icon: custom/homepage
-    icon_pack: fab
+    # icon_pack: fab
     link: https://www.cs.rug.nl/~bisazza/
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://x.com/AriannaBisazza
   - icon: google-scholar
