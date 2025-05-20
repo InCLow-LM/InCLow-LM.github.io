@@ -23,7 +23,7 @@ sections:
       count: 10
       filters:
         folders:
-          - people
+          - authors
         # publication_type: 'article'
     design:
       view: card
