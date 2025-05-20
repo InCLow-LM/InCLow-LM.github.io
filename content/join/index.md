@@ -46,7 +46,7 @@ sections:
       opening_hours:
         - 'Monday to Thursday: 08:00 - 22:00'
         - 'Friday: 08:00 - 18:00'
-      email: test@example.org
+      # email: test@example.org
       phone: +31 (0)50 363 5901
       # appointment_url: 'https://calendly.com'
       #contact_links:

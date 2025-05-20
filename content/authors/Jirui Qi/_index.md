@@ -54,7 +54,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:j.qi@rug.nl'
-  - icon: "custom/homepage"
+  - icon: custom/homepage
     icon_pack: fab
     link: https://betswish.github.io/
   - icon: twitter
