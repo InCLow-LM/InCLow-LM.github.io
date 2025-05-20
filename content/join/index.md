@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-    title: Unfortunately, we have no open positions right now. 
+      title: Unfortunately, we have no open positions right now. 
       text: |-
         **********************************************************************************        
         But please keep an eye on this page since we actively update the latest vacancies here.
