@@ -53,16 +53,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'j.qi@rug.nl'
+    link: 'mailto:j.qi@rug.nl'
+  - icon: "custom/homepage"
+    icon_pack: fab
+    link: https://betswish.github.io/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/Jirui_Qi
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=bN9bPVUAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Betswish
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,4 +79,4 @@ user_groups:
   # - Visitors
 ---
 
-Jirui Qi is a 3rd year PhD student at The University of Groningen. His research focuses on low-resource conversational tasks, with especial interests in retrieval augmented generation (RAG), cross-lingual/multilingual LMs, and efficient automatic prompt engineering.
+Jirui is a PhD student at the Computational Linguistics Group of the University of Groningen and member of the [LESSEN consortium](https://projects.illc.uva.nl/indeep/). His research focuses on retrieval augmentations generation (RAG) and multilingual LLMs, supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
