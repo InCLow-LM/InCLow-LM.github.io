@@ -79,6 +79,6 @@ user_groups:
   # - Visitors
 ---
 
-Jirui is a PhD student at the InCLow Group of CLCG, the University of Groningen and member of the [LESSEN consortium](https://projects.illc.uva.nl/indeep/). His research focuses on retrieval augmentations generation (RAG) and multilingual LLMs, supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
+Jirui is a PhD student at the InCLow group of CLCG, the University of Groningen and member of the [LESSEN consortium](https://projects.illc.uva.nl/indeep/). His research focuses on retrieval augmentations generation (RAG) and multilingual LLMs, supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
 
 For more details, check his [homepage](https://betswish.github.io/).
