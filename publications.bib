@@ -66,14 +66,28 @@
     pages = "1691--1706",
     abstract = "Following multiple instructions is a crucial ability for large language models (LLMs). Evaluating this ability comes with significant challenges: (i) limited coherence between multiple instructions, (ii) positional bias where the order of instructions affects model performance, and (iii) a lack of objectively verifiable tasks. To address these issues, we introduce a benchmark designed to evaluate models' abilities to follow multiple instructions through sequential instruction following (SIFo) tasks. In SIFo, the successful completion of multiple instructions is verifiable by examining only the final instruction. Our benchmark evaluates instruction following using four tasks (text modification, question answering, mathematics, and security rule following), each assessing different aspects of sequential instruction following. Our evaluation of popular LLMs, both closed-source and open-source, shows that more recent and larger models significantly outperform their older and smaller counterparts on the SIFo tasks, validating the benchmark's effectiveness. All models struggle with following sequences of instructions, hinting at an important lack of robustness of today's language models."
 },
-@article{liu2024likelihood,
-  title={Pointwise Mutual Information as a Performance Gauge for Retrieval-Augmented Generation},
-  author={Liu, Tianyu and Qi, Jirui and He, Paul and Bisazza, Arianna and Sachan, Mrinmaya and Cotterell, Ryan},
-  journal={arXiv preprint arXiv:2411.07773},
-  url={https://arxiv.org/abs/2411.07773v2},
-  abstract={Recent work suggests that large language models enhanced with retrieval-augmented generation are easily influenced by the order, in which the retrieved documents are presented to the model when solving tasks such as question answering (QA). However, there is no method to date that exploits this phenomenon to improve generation. We fill this gap. In this study, we show that the pointwise mutual information between a context and a question is an effective gauge for language model performance. Importantly, this gauge does not depend on knowing the answer to the question a priori. Through experiments on two question-answering datasets and a variety of large language models, we find evidence for an empirical correlation between answer accuracy and pointwise mutual information. Additionally, we propose two methods that use the pointwise mutual information between a document and a question as a gauge for selecting and constructing prompts that lead to better performance, whose effectiveness we demonstrate through experimentation.},
-  year={2024}
+@inproceedings{liu-etal-2025-pointwise,
+    title = "Pointwise Mutual Information as a Performance Gauge for Retrieval-Augmented Generation",
+    author = "Liu, Tianyu  and
+      Qi, Jirui  and
+      He, Paul  and
+      Bisazza, Arianna  and
+      Sachan, Mrinmaya  and
+      Cotterell, Ryan",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.78/",
+    pages = "1628--1647",
+    ISBN = "979-8-89176-189-6",
+    abstract = "Recent work suggests that large language models enhanced with retrieval-augmented generation are easily influenced by the order in which the retrieved documents are presented to the model when solving tasks such as question answering (QA).However, there is no method to date that exploits this phenomenon to improve generation.To fill this gap, in this study, we show that the pointwise mutual information between a context and a question is an effective gauge for language model performance.Importantly, this gauge does not depend on knowing the answer to the question \textit{a priori}.Through experiments on two question-answering datasets using a variety of large language models, we find evidence for an empirical correlation between answer accuracy and pointwise mutual information.Additionally, we propose two methods that use the pointwise mutual information between a document and a question as a gauge for selecting and constructing prompts that lead to better performance, whose effectiveness we demonstrate through experimentation."
 }
+
 @inproceedings{sarti2024democratizing,
   title={Democratizing Advanced Attribution Analyses of Generative Language Models with the Inseq Toolkit},
   author={Sarti, Gabriele and Feldhus, Nils and Qi, Jirui and Nissim, Malvina and Bisazza, Arianna},
