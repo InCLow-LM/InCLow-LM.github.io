@@ -59,7 +59,7 @@ social:
   - icon: custom/homepage
     # icon_pack: fab
     link: https://www.cs.rug.nl/~bisazza/
-  - icon: x
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/AriannaBisazza
   - icon: google-scholar
