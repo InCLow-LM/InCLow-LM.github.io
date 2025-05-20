@@ -53,16 +53,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:j.qi@rug.nl'
-  - icon: custom/homepage
-    icon_pack: fab
-    link: https://betswish.github.io/
+    link: 'mailto:jumeletjaap@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/Jirui_Qi
+    link: https://x.com/JumeletJ
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=bN9bPVUAAAAJ
+    link: https://scholar.google.com/citations?user=i2wNV20AAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'j.qi@rug.nl'
+email: 'jumeletjaap@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,4 +76,4 @@ user_groups:
   # - Visitors
 ---
 
-Jaap is a post-doc in the group of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) at the University of Groningen. 
+Jaap is a post-doc in the group of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) at the University of Groningen.  His research focuses in particular on topics related to language acquisition and typology, examining aspects related to the learnability of linguistic structure and connecting this to human language learning.

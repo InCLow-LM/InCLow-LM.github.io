@@ -56,9 +56,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gabriele.sarti996@gmail.com'
-  - icon: custom/homepage
-    icon_pack: fab
-    link: https://gsarti.com/
+  # - icon: custom/homepage
+  #   icon_pack: fab
+  #   link: https://gsarti.com/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/gsarti_

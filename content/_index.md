@@ -27,7 +27,7 @@ sections:
         # publication_type: 'article'
     design:
       view: card
-      columns: '2'
+      columns: '1'
     
     
   - block: collection

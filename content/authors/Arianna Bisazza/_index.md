@@ -56,9 +56,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:a.bisazza@rug.nl'
-  - icon: custom/homepage
-    # icon_pack: fab
-    link: https://www.cs.rug.nl/~bisazza/
+  # - icon: custom/homepage
+  #   # icon_pack: fab
+  #   link: https://www.cs.rug.nl/~bisazza/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/AriannaBisazza
@@ -72,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'j.qi@rug.nl'
+email: 'a.bisazza@rug.nl'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
