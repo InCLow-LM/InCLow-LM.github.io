@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gabriele.sarti996@gmail.com'
-  - icon: "custom/homepage"
+  - icon: custom/homepage
     icon_pack: fab
     link: https://gsarti.com/
   - icon: twitter
@@ -77,7 +77,7 @@ email: 'gabriele.sarti996@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD
+  - PhDs
   # - Visitors
 ---
 

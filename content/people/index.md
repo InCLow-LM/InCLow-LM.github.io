@@ -13,11 +13,10 @@ sections:
       user_groups:
           # - Principal Investigators
           # - Researchers
-          - Professor
-          - Postdoc
-          - PhD
-          - Visitor
-          - Alumni
+          - Senior Members
+          - PhDs
+          - Visitors
+          - Alumna
       sort_by: Params.year
       sort_ascending: False
     design:

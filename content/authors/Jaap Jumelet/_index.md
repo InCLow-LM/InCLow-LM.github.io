@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Arianna Bisazza
+title: Jaap Jumelet
 
 # Which year are you in?
 # It's used for sorting in each group (Prof/Postdoc/PhD)
 # e.g. 3rd year PhD should enter 3; 2nd Postdoc should enter 2
-year: 30
+year: 1
 
 # Full name (for SEO)
-first_name: Arianna
-last_name: Bisazza
+first_name: Jaap
+last_name: Jumelet
 
 # Username (this should match the folder name)
 authors:
-  - Arianna Bisazza
+  - Jaap Jumelet
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Associate Professor
+role: Post-Doc
 
 # Organizations/Affiliations
 organizations:
@@ -30,11 +30,9 @@ organizations:
 # bio: My research interests 
 
 interests:
-  - Natural Language Processing
-  - Neural Model Interpretability
-  - Machine Translation and Multilinguality
-  - Efficient BabyLM Training
-  - Morphology
+  - Retrieval augmented generation (RAG)
+  - Cross-lingual/multilingual LMs
+  - Efficient automatic prompt engineering
 
 # education:
 #   courses:
@@ -55,19 +53,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:a.bisazza@rug.nl'
+    link: 'mailto:j.qi@rug.nl'
   - icon: custom/homepage
     icon_pack: fab
-    link: https://www.rug.nl/staff/f.padovani/
+    link: https://betswish.github.io/
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/AriannaBisazza
+    link: https://x.com/Jirui_Qi
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.nl/citations?user=biQvUhcAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://www.cs.rug.nl/~bisazza/
+    link: https://scholar.google.com/citations?hl=en&user=bN9bPVUAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -84,9 +79,4 @@ user_groups:
   # - Visitors
 ---
 
-Arianna is Associate Professor in the Computational Linguistics Group of the University of Groningen.
-
-She is passionate about the statistical modeling of human languages, particularly in a multilingual context. Her long-term goal is to design robust language processing algorithms that can adapt to the large variety of linguistic phenomena observed around the world.
-Among others, she work towards improving the quality of Machine Translation for challenging language pairs, and making state-of-the art NLP models more interpretable.
-As a cross-disciplinary research enthusiast, she is interested in enhancing research on human language processing or language evolution with computational modeling tools.
-Last but not least, she enjoys observing, interacting with, and finding daily inspiration in my two daughters and their trilingual minds in the making.
+Jaap is a post-doc in the group of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) at the University of Groningen. 

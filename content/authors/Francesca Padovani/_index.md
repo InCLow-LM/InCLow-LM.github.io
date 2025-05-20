@@ -19,7 +19,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:f.padovani@rug.nl'
-  - icon: "custom/homepage"
+  - icon: custom/homepage
     icon_pack: fab
     link: https://www.rug.nl/staff/f.padovani/
   - icon: twitter
@@ -75,7 +75,7 @@ email: 'f.padovani@rug.nl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD
+  - PhDs
   # - Visitors
 ---
 
