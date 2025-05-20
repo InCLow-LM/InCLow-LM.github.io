@@ -20,7 +20,7 @@ sections:
     content:
       title: People
       text: ""
-      count: 10
+      # count: 10
       filters:
         folders:
           - authors
