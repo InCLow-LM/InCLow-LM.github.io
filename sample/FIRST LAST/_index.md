@@ -7,27 +7,23 @@ title: YOUR NAME
 # e.g. 3rd year PhD should enter 3; 2nd Postdoc should enter 2
 year: 3
 
-# Full name (for SEO)
-first_name: FIRST
-last_name: LAST
+# Full name
+first_name: FIRST_NAME
+last_name: LAST_NAME
 
 # Username (Insert your name)
 authors:
   - YOUR NAME
 
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
+# Your Role/position
 role: PhD Student
 
-# Organizations/Affiliations
+# Your Organizations/Affiliations
 organizations:
-  - name: University of Groningen
-    url: 'https://www.rug.nl/?lang=en'
+  - name: University of XXX
+    url: 'https://url'
 
-
-# Fill in your social medias
+# Fill in your social medias, if not applicable, you could simply comment that field
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,10 +40,13 @@ social:
 
 email: 'YOUR_EMAIL@xx.xx'
 
-# Organizational groups that you belong to [No need for change]
+
+# Is this the primary user of the site? [No need to change]
+superuser: false
+
+# Organizational groups that you belong to [No need to change]
 user_groups:
-  - Visitor
-  # - Visitors
+  - Visitors
 ---
 
 You may give a short introduction of yourself.
