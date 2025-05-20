@@ -29,10 +29,10 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests 
 
-interests:
-  - Language & Linguistics
-  - Computer Science, Artificial Intelligence
-  - Psychology
+# interests:
+#   - Language & Linguistics
+#   - Computer Science, Artificial Intelligence
+#   - Psychology
 
 # education:
 #   courses:
@@ -79,4 +79,6 @@ user_groups:
   # - Visitors
 ---
 
-Francesca is a PhD student at the Computational Linguistic Group at the Center for Language and Cognition (CLCG), the University of Groningen (NL).
+Francesca is a PhD student at the InCLow group in CLCG, the University of Groningen (NL). Her research is supervised by Arianna Bisazza.
+
+For more details, check her [homepage](https://www.rug.nl/staff/f.padovani/).

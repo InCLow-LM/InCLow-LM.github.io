@@ -29,12 +29,12 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests 
 
-interests:
-  - Natural Language Processing
-  - Neural Model Interpretability
-  - Machine Translation and Multilinguality
-  - Efficient BabyLM Training
-  - Morphology
+# interests:
+#   - Natural Language Processing
+#   - Neural Model Interpretability
+#   - Machine Translation and Multilinguality
+#   - Efficient BabyLM Training
+#   - Morphology
 
 # education:
 #   courses:
@@ -81,9 +81,13 @@ user_groups:
   # - Visitors
 ---
 
-Arianna is Associate Professor in the Computational Linguistics Group of the University of Groningen.
+Arianna is Associate Professor at InCLow Group in the Computational Linguistics Group of the University of Groningen.
 
-She is passionate about the statistical modeling of human languages, particularly in a multilingual context. Her long-term goal is to design robust language processing algorithms that can adapt to the large variety of linguistic phenomena observed around the world.
-Among others, she work towards improving the quality of Machine Translation for challenging language pairs, and making state-of-the art NLP models more interpretable.
-As a cross-disciplinary research enthusiast, she is interested in enhancing research on human language processing or language evolution with computational modeling tools.
-Last but not least, she enjoys observing, interacting with, and finding daily inspiration in my two daughters and their trilingual minds in the making.
+Her research was funded by a Veni grant from the Dutch Research Council (NWO) from 2016 to 2021. Currently, I am involved in two national-consortium projects, both funded by NWO's [NWA-ORC](https://initiatieven.wetenschapsagenda.nl/en) initiatives: [Interpreting deep learning models for language, speech & music (InDeep)](https://projects.illc.uva.nl/indeep/) and [Low Resource Chat-based Conversational Intelligence (LESSEN)](https://lessen-project.nl/). I also supervise two China Scholarship Council (CSC)-funded PhD students working on the simulation of human patterns of language learning and change. I have just started a NWO [Vidi grant to improve language modeling for (low-resource) morphologically rich languages](https://www.nwo.nl/en/news/97-leading-researchers-receive-vidi-grants), taking inspiration from child language acquisition insights.
+
+For more details, check her [homepage](https://www.cs.rug.nl/~bisazza/).
+
+<!-- She is passionate about the statistical modeling of human languages, particularly in a multilingual context. Her long-term goal is to design robust language processing algorithms that can adapt to the large variety of linguistic phenomena observed around the world. -->
+<!-- Among others, she work towards improving the quality of Machine Translation for challenging language pairs, and making state-of-the art NLP models more interpretable. -->
+<!-- As a cross-disciplinary research enthusiast, she is interested in enhancing research on human language processing or language evolution with computational modeling tools. -->
+<!-- Last but not least, she enjoys observing, interacting with, and finding daily inspiration in my two daughters and their trilingual minds in the making. -->

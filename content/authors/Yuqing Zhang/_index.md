@@ -29,10 +29,10 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests 
 
-interests:
-  - Language universals (e.g., word order preferences)
-  - Emergent communication & reinforcement learning
-  - Neural network-based simulation of language evolution
+# interests:
+#   - Language universals (e.g., word order preferences)
+#   - Emergent communication & reinforcement learning
+#   - Neural network-based simulation of language evolution
 
 # education:
 #   courses:
@@ -79,4 +79,4 @@ user_groups:
   # - Visitors
 ---
 
-Yuqing is a PhD student at the University of Groningen, as a member of the Computational Linguistics Group, supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/), [Tessa Verhoef](https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef#tab-2) and [Gertjan van Noord](https://www.rug.nl/staff/g.j.m.van.noord/?lang=en). Her main research focuses on multi-agent emergent communication.
+Yuqing is a PhD student at InCLow group, in CLCG, University of Groningen. Her main research focuses on multi-agent emergent communication, supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/), [Tessa Verhoef](https://www.universiteitleiden.nl/en/staffmembers/tessa-verhoef#tab-2) and [Gertjan van Noord](https://www.rug.nl/staff/g.j.m.van.noord/?lang=en).

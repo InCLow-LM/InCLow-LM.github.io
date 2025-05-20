@@ -29,12 +29,12 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests 
 
-interests:
-  - Natural Language Processing
-  - Neural Model Interpretability
-  - Machine Translation and Multilinguality
-  - Efficient BabyLM Training
-  - Morphology
+# interests:
+#   - Natural Language Processing
+#   - Neural Model Interpretability
+#   - Machine Translation and Multilinguality
+#   - Efficient BabyLM Training
+#   - Morphology
 
 # education:
 #   courses:
@@ -81,4 +81,6 @@ user_groups:
   # - Visitors
 ---
 
-Ahmet was a researcher at CohereAI.
+Ahmet was a PhD supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/), [Gosse Bouma](https://www.let.rug.nl/gosse/) and [Gertjan van Noord](https://www.let.rug.nl/vannoord/). Currently, he works as a researcher at CohereAI.
+
+For more details, check his [homepage](https://ahmetustun.github.io/).

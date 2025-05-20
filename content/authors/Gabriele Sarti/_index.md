@@ -29,11 +29,11 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests 
 
-interests:
-  - Conditional Text Generation
-  - Interpretability for Deep Learning
-  - Behavioral Data for NLP
-  - Causality and Uncertainty Estimation
+# interests:
+#   - Conditional Text Generation
+#   - Interpretability for Deep Learning
+#   - Behavioral Data for NLP
+#   - Causality and Uncertainty Estimation
 
 
 # education:
@@ -82,3 +82,5 @@ user_groups:
 ---
 
 Gabriele is a PhD student at the Computational Linguistics Group of the University of Groningen and member of the [InDeep consortium](https://projects.illc.uva.nl/indeep/), working on user-centric interpretability for neural machine translation. He is also the main developer of the [Inseq](https://github.com/inseq-team/inseq) library. His supervisors are [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/), [Malvina Nissim](https://malvinanissim.github.io/) and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+
+For more details, check his [homepage](https://gsarti.com/).
