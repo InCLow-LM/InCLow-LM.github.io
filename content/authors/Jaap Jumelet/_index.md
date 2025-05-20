@@ -30,9 +30,8 @@ organizations:
 # bio: My research interests 
 
 interests:
-  - Retrieval augmented generation (RAG)
-  - Cross-lingual/multilingual LMs
-  - Efficient automatic prompt engineering
+  - LM Grammatical Abilities
+  - Linguistic Theory with LM behaviours
 
 # education:
 #   courses:
