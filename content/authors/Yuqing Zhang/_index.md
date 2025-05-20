@@ -54,8 +54,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:yuqing.zhang@rug.nl'
-  - icon: "custom/homepage"
-    icon_pack: fab
+  - icon: user
+    icon_pack: fas
     link: https://yuqing0304.github.io/
   # - icon: twitter
   #   icon_pack: fab

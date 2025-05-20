@@ -53,6 +53,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:jumeletjaap@gmail.com'
+  - icon: user
+    icon_pack: fas
+    link: 'https://jumelet.ai/'
   - icon: twitter
     icon_pack: fab
     link: https://x.com/JumeletJ

@@ -54,9 +54,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:f.padovani@rug.nl'
-  # - icon: custom/homepage
-  #   icon_pack: fab
-  #   link: https://www.rug.nl/staff/f.padovani/
+  - icon: user
+    icon_pack: fas
+    link: https://www.rug.nl/staff/f.padovani/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/FrancescaPado15
