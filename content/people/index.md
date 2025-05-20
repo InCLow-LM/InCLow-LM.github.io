@@ -19,7 +19,7 @@ sections:
           - Visitor
           - Alumni
       sort_by: Params.year
-      sort_ascending: true
+      sort_ascending: False
     design:
       show_interests: false
       show_role: true
