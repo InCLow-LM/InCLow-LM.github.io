@@ -29,10 +29,10 @@ organizations:
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests 
 
-interests:
-  - Retrieval augmented generation (RAG)
-  - Cross-lingual/multilingual LMs
-  - Efficient automatic prompt engineering
+# interests:
+#   - Retrieval augmented generation (RAG)
+#   - Cross-lingual/multilingual LMs
+#   - Efficient automatic prompt engineering
 
 # education:
 #   courses:

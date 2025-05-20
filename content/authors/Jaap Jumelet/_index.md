@@ -79,3 +79,5 @@ user_groups:
 ---
 
 Jaap is a post-doc in the InCLow group of [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/) at the University of Groningen.  His research focuses in particular on topics related to language acquisition and typology, examining aspects related to the learnability of linguistic structure and connecting this to human language learning.
+
+For more details, check his [homepage](https://jumelet.ai/).
