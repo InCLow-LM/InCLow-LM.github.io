@@ -58,16 +58,13 @@ social:
     link: 'mailto:a.bisazza@rug.nl'
   - icon: custom/homepage
     icon_pack: fab
-    link: https://www.rug.nl/staff/f.padovani/
+    link: https://www.cs.rug.nl/~bisazza/
   - icon: twitter
     icon_pack: fab
     link: https://x.com/AriannaBisazza
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.nl/citations?user=biQvUhcAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://www.cs.rug.nl/~bisazza/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
