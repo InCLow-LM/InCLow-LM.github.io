@@ -16,7 +16,7 @@ sections:
           - Senior Members
           - PhDs
           - Visitors
-          - Alumna
+          - Alumni
       sort_by: Params.year
       sort_ascending: False
     design:
