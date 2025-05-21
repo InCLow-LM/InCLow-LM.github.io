@@ -53,16 +53,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:f.padovani@rug.nl'
+    link: 'f.padovani@rug.nl'
   - icon: user
     icon_pack: fas
-    link: https://www.rug.nl/staff/f.padovani/
+    link: https://fpadovani.github.io/ 
   - icon: twitter
     icon_pack: fab
     link: https://x.com/FrancescaPado15
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.nl/citations?user=soRj2BkAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=soRj2BkAAAAJ&hl=it&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,6 +79,6 @@ user_groups:
   # - Visitors
 ---
 
-Francesca is a PhD student at the InCLow group in CLCG, the University of Groningen (NL). Her research is supervised by Arianna Bisazza.
+Francesca is a first year PhD at InCLow, working at the intersection between Language Acquision and Language Modeling. She is interested in understanding how infants learn and process language and how the child-directed language signal can be leveraged to train cognitively more plausible models.
 
-For more details, check her [homepage](https://www.rug.nl/staff/f.padovani/).
+For more details, check his/her [homepage](https://fpadovani.github.io/).
