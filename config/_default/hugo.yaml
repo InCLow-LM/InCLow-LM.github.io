@@ -23,7 +23,7 @@ removePathAccents: true
 params:
   # Logo configuration
   logo:
-    image: media/logo.png
+    image: media/icon.png
     image_width: 30px  # Optional width adjustment
     # image_light: media/logo-light.png  # Optional light mode variant
     # image_dark: media/logo-dark.png   # Optional dark mode variant
