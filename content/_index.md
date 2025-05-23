@@ -23,29 +23,40 @@ sections:
 
         <p>We’re proudly part of the larger Computational Linguistics group
         <span style="line-height: 1.5; display: inline-flex; align-items: center;">
-        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;"></span>
-        [GroNLP](https://www.rug.nl/research/clcg/research/cl/) at the University of Groningen, the Netherlands.</p>
+        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;"></span></p>
+        [GroNLP](https://www.rug.nl/research/clcg/research/cl/) at the University of Groningen, the Netherlands.
 
         (P.S. Great appreciation to [Maria Pilar Uribe-Silva](https://www.linkedin.com/in/maria-pilar-uribe-silva) for the perfect team photograph!)
 
-  - block: collection
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 2
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: card
+  #     columns: '1'
+
+  - block: markdown
     content:
       title: Latest News
       subtitle:
-      text:
-      count: 2
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      text: |
+        [05/23/2025] Hello world 2.
+        [04/03/2025] Hello world.
+
     design:
-      view: card
-      columns: '2'
+      columns: '1'
 
   # - block: collection
   #   content:
