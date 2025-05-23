@@ -26,8 +26,7 @@ sections:
         <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
         <a href="https://www.rug.nl/research/clcg/research/cl/">GroNLP</a>
         </span>
-        at the University of Groningen, the Netherlands.
-        </p>
+        at the University of Groningen, the Netherlands.</p>
 
   - block: collection
     content:
