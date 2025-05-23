@@ -21,7 +21,13 @@ sections:
         
         - What can we learn about human language while attempting to do that?
 
-        We’re proudly part of the larger Computational Linguistics group (<img src='https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png'> </img>[GroNLP](https://www.rug.nl/research/clcg/research/cl/)) at the University of Groningen, the Netherlands. 
+        <p>We’re proudly part of the larger Computational Linguistics group
+        <span style="line-height: 1.5; display: inline-flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+        <a href="https://www.rug.nl/research/clcg/research/cl/">GroNLP</a>
+        </span>
+        at the University of Groningen, the Netherlands.
+        </p>
 
   - block: collection
     content:

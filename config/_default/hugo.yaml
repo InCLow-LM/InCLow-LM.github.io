@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: <img src='https://github.com/InCLow-LM/InCLow-LM.github.io/blob/main/assets/media/icon.png'> InCLow # Website name
+title: InCLow # Website name
 # baseURL: 'https://example.com/' # Website URL
 baseURL: 'https://inclow-lm.github.io/' # Website URL
 
