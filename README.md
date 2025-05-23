@@ -1,6 +1,21 @@
-# How to update publications:
+# InCLow Homepage
 
-Copy and paste the **bibtex** into publications.bib (**remember to add comma!**) and commit.
-Don't do other operations and it will appear on the InCLow homepage.
+Welcome to InCLow homepage. Below is the instructions about how to modify your own profile.
 
-For more questions, please contact the homepage administrator.
+## How to edit your profile:
+
+Go to `content`-`authors`, if your name is not there, please create a new folder and place `_index.md` and `avatar.jpg` (your photo). Your personal informations are written in the former where you can change your descriptions by yourself!
+
+## How to update publications:
+
+Find your awesome works not on the websit? Simply copy and paste their **bibtex** into publications.bib (**remember to add comma!**) and save it. Then it will appear on the InCLow homepage automatically!
+
+## Updates in News and Joining Information:
+
+- Have new achievements? Annouce your news at `content`-`post`! Detailed instructions are described in the example `index.md` files.
+
+- New position opening? Update the information in `content`-`join`-`index.md`.
+
+## Modify websit structure
+
+- All files about websit structure are stored under `config/_default`.
