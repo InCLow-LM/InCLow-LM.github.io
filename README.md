@@ -19,3 +19,6 @@ Find your awesome works not on the websit? Simply copy and paste their **bibtex*
 ## Modify websit structure
 
 - All files about websit structure are stored under `config/_default`.
+
+
+# For more questions, please also refer to [Hugo Box Official Document](https://docs.hugoblox.com/).
