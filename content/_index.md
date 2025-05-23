@@ -56,7 +56,10 @@ sections:
       subtitle:
       text: |
         [05/23/2025] Hello world 2.
-        [04/03/2025] Hello world.
+
+        [04/03/2025] Hello world 1.
+
+        [03/02/2025] Hello world 0.
 
     design:
       columns: '1'
