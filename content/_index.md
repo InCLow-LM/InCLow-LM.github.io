@@ -28,6 +28,8 @@ sections:
         </span>
         at the University of Groningen, the Netherlands.</p>
 
+        (P.S. Great appreciation to [Maria Pilar Uribe-Silva](https://www.linkedin.com/in/maria-pilar-uribe-silva) for the wonderful photographs!)
+
   - block: collection
     content:
       title: Latest News
