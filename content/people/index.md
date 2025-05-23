@@ -7,7 +7,8 @@ type: landing
 sections:
   - block: people
     content:
-      title: InCLow Group Members 
+      title: <p>InCLow Group Members <br> Appreciation to [Maria Pilar Uribe-Silva](https://www.linkedin.com/in/maria-pilar-uribe-silva) for the wonderful portraits! </p>
+
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -24,5 +25,3 @@ sections:
       show_role: true
       show_social: true
 ---
-
-Appreciation to [Maria Pilar Uribe-Silva](https://www.linkedin.com/in/maria-pilar-uribe-silva) for the wonderful portraits!
