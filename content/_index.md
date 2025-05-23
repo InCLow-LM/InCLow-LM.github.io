@@ -13,7 +13,15 @@ sections:
       text: |
         <br>
         
-        **InCLow** is a research group at [CLCG](https://www.rug.nl/research/clcg/research/cl/members/list-of-members), University of Groningen. We are a thriving team interested in (Multilingual) LM, model interpretability, and efficient training (BabyLM challenges).
+        Welcome to our homepage! InCLow stands for Interpretable, Cognitively inspired, Low-resource Language Models.
+
+        We are a thriving research team working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
+
+        - How to develop language technologies that work well for a large variety of languages?
+        
+        - What can we learn about human language while attempting to do that?
+
+        We’re proudly part of the larger Computational Linguistics group (<img src='media/icon.png'> </img>[GroNLP](https://www.rug.nl/research/clcg/research/cl/)) at the University of Groningen, the Netherlands. 
 
   - block: collection
     content:
