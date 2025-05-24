@@ -55,7 +55,7 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        **[May 2025]** Jaap gave a talk in Edinburgh on …
+        **[May 2025]** Jaap gave a [talk in Edinburgh](https://informatics.ed.ac.uk/ilcc/news-events/seminars-2025/friday-2nd-may-at-11am-jaap-jumelet) on [MultiBLiMP: A Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768).
         
         **[May 2025]** Master student Anais Almendra from the University of Chile joined us for a 3-month visit. She works on morphological analysis of the endangered language Madupungun.
         
