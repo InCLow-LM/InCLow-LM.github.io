@@ -29,7 +29,7 @@ sections:
         at the University of Groningen, the Netherlands.
         </p>
 
-        <p><i> <font size="4"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the perfect team photograph! </font> </i></p>
+        <p><i> <font size="4"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
 
   # - block: collection
   #   content:
@@ -55,13 +55,13 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        **[May 2025]** Jaap gave a [talk in Edinburgh](https://informatics.ed.ac.uk/ilcc/news-events/seminars-2025/friday-2nd-may-at-11am-jaap-jumelet) on [MultiBLiMP: A Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768).
+        **[May 2025]** [Jaap](https://jumelet.ai/) gave a [talk in Edinburgh](https://informatics.ed.ac.uk/ilcc/news-events/seminars-2025/friday-2nd-may-at-11am-jaap-jumelet) on [MultiBLiMP: A Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768).
         
         **[May 2025]** Master student Anais Almendra from the University of Chile joined us for a 3-month visit. She works on morphological analysis of the endangered language Madupungun.
         
-        **[April 2025]** Jirui gave two talks at [KPN](https://www.kpn.com/algemeen/english) and [University of Amsterdam](https://www.uva.nl/en) on three topics on Retrieval Augmented Generation ([MIRAGE](https://aclanthology.org/2024.emnlp-main.347/), [likelihood gauges answer accuracy](https://aclanthology.org/2025.naacl-long.78/), and [Consistency in Multilingual Context Utilization](https://arxiv.org/abs/2504.00597))
+        **[April 2025]** [Jirui](https://betswish.github.io/) gave two talks at [KPN](https://www.kpn.com/algemeen/english) and [University of Amsterdam](https://www.uva.nl/en) on three topics on Retrieval Augmented Generation ([MIRAGE](https://aclanthology.org/2024.emnlp-main.347/), [likelihood gauges answer accuracy](https://aclanthology.org/2025.naacl-long.78/), and [Consistency in Multilingual Context Utilization](https://arxiv.org/abs/2504.00597))
 
-        **[Mar 2025]**  Arianna gave a keynote talk at [NoDaLiDa/Baltic-HLT 2025](https://sites.google.com/view/nodalida-bhlt2025/keynote-speakers), titled "Not all Language Models need to be Large: Studying Language Evolution and Acquisition with Modern Neural Networks".
+        **[Mar 2025]** [Arianna](https://www.cs.rug.nl/~bisazza/) gave a keynote talk at [NoDaLiDa/Baltic-HLT 2025](https://sites.google.com/view/nodalida-bhlt2025/keynote-speakers), titled "Not all Language Models need to be Large: Studying Language Evolution and Acquisition with Modern Neural Networks".
         
         **[Feb 2025]** PhD student [Akari Haga](https://akari000.github.io/about/) from NAIST, Japan, joined us for a 6-month visit. She works on BabyLM-style models for Japanese.
 
@@ -99,7 +99,7 @@ sections:
 
   - block: markdown
     content:
-      title: People
+      title:
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
