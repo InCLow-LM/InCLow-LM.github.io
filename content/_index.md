@@ -67,7 +67,7 @@ sections:
 
 
     design:
-      columns: '1'
+      columns: '2'
 
   # - block: collection
   #   content:
