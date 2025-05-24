@@ -82,4 +82,6 @@ user_groups:
 
 Malvina works in Natural Language Processing and its application to societally relevant problems. She is the coordinator of the [Sectorplan](https://www.rug.nl/research/research-let/sectorplan-website/)’s theme [Humane AI](https://www.rug.nl/research/research-let/sectorplan-website/humaneai/) at the University of Groningen, a member of the [ACL Ethics Committee](https://www.aclweb.org/portal/content/acl-establishes-its-ethics-committee), a member of the Scientific Advisory Board of the [Jantina Tammes School for Digital Society, Technology, and AI](https://www.rug.nl/jantina-tammes-school/?lang=en) at the University of Groningen, and a member of the board of [AILC](https://www.ai-lc.it/en/), the Italian Association for Computational Linguistics.
 
+
+
 For more details, check her [homepage](https://malvinanissim.github.io/).
