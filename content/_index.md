@@ -29,7 +29,7 @@ sections:
         at the University of Groningen, the Netherlands.
         </p>
 
-        (P.S. Great appreciation to [Maria Pilar Uribe-Silva](https://www.linkedin.com/in/maria-pilar-uribe-silva) for the perfect team photograph!)
+        <p> <font size="4"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the perfect team photograph! </font> </p>
 
   # - block: collection
   #   content:

@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: <p>InCLow Group Members <br> <font size="5"> Appreciation to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful portraits! </font> </p>
+      title: <p>InCLow Group Members <br> <font size="4"> Appreciation to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful portraits! </font> </p>
 
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
