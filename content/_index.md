@@ -29,7 +29,7 @@ sections:
         at the University of Groningen, the Netherlands.
         </p>
 
-        <p> <font size="4"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the perfect team photograph! </font> </p>
+        <p><i> <font size="4"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the perfect team photograph! </font> </i></p>
 
   # - block: collection
   #   content:
@@ -84,22 +84,22 @@ sections:
   #     columns: '1'
 
 
-  - block: collection
-    content:
-      title: People
-      text: ""
-      # count: 10
-      filters:
-        folders:
-          - authors
-        # publication_type: 'article'
-    design:
-      view: card
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: People
+  #     text: ""
+  #     # count: 10
+  #     filters:
+  #       folders:
+  #         - authors
+  #       # publication_type: 'article'
+  #   design:
+  #     view: card
+  #     columns: '1'
 
   - block: markdown
     content:
-      title:
+      title: People
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
