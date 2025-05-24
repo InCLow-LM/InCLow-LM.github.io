@@ -24,7 +24,7 @@ sections:
         <p>We’re proudly part of the larger Computational Linguistics group
         <span style="line-height: 1.5; display: inline-flex; align-items: center;">
         <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
-        <a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle;">GroNLP</a>
+        <a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">GroNLP</a>
         </span>
         at the University of Groningen, the Netherlands.
         </p>
