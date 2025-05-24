@@ -18,6 +18,7 @@ sections:
           - PhDs
           - Visitors
           - Alumni
+          - Frequent Collaborators
       sort_by: Params.year
       sort_ascending: False
     design:
