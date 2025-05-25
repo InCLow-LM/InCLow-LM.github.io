@@ -79,9 +79,9 @@ sections:
           - publication
         # publication_type: 'article'
     design:
-      # view: citation
-      view: card
-      columns: '2'
+      view: citation
+      # view: card
+      # columns: '1'
 
 
   # - block: collection
