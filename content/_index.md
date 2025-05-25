@@ -79,6 +79,20 @@ sections:
           - publication
         # publication_type: 'article'
     design:
+      # view: citation
+      view: card
+      # columns: '1'
+
+  - block: collection
+    content:
+      title: Latest Publications
+      text: ""
+      count: 4
+      filters:
+        folders:
+          - publication
+        # publication_type: 'article'
+    design:
       view: citation
       # view: card
       # columns: '1'
@@ -97,6 +111,19 @@ sections:
       # view: card
       # columns: '1'
       
+  - block: collection
+    content:
+      title: Latest Publications
+      text: ""
+      count: 4
+      filters:
+        folders:
+          - publication
+        # publication_type: 'article'
+    design:
+      view: article-grid
+      # view: card
+      # columns: '1'
 
   # - block: collection
   #   content:
