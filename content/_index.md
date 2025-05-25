@@ -79,7 +79,8 @@ sections:
           - publication
         # publication_type: 'article'
     design:
-      view: citation
+      # view: citation
+      view: masonry
       # view: card
       # view: date-title-summary
       # columns: '1'
