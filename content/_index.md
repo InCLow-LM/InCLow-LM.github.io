@@ -79,10 +79,10 @@ sections:
           - publication
         # publication_type: 'article'
     design:
-      view: citation
+      # view: citation
       # view: masonry
       # view: card
-      # view: date-title-summary
+      view: date-title-summary
       # columns: '1'
 
   - block: markdown
