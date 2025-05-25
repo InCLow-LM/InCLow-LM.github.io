@@ -110,20 +110,6 @@ sections:
       view: date-title-summary
       # view: card
       # columns: '1'
-      
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 4
-      filters:
-        folders:
-          - publication
-        # publication_type: 'article'
-    design:
-      view: showcase
-      # view: card
-      # columns: '1'
 
   # - block: collection
   #   content:
