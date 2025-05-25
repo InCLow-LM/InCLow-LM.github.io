@@ -79,50 +79,10 @@ sections:
           - publication
         # publication_type: 'article'
     design:
-      # view: citation
-      view: card
-      # columns: '1'
-
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 4
-      filters:
-        folders:
-          - publication
-        # publication_type: 'article'
-    design:
       view: citation
       # view: card
+      # view: date-title-summary
       # columns: '1'
-
-  - block: collection
-    content:
-      title: Latest Publications
-      text: ""
-      count: 4
-      filters:
-        folders:
-          - publication
-        # publication_type: 'article'
-    design:
-      view: date-title-summary
-      # view: card
-      # columns: '1'
-
-  # - block: collection
-  #   content:
-  #     title: People
-  #     text: ""
-  #     # count: 10
-  #     filters:
-  #       folders:
-  #         - authors
-  #       # publication_type: 'article'
-  #   design:
-  #     view: card
-  #     columns: '1'
 
   - block: markdown
     content:
