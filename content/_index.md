@@ -121,7 +121,7 @@ sections:
           - publication
         # publication_type: 'article'
     design:
-      view: article-grid
+      view: showcase
       # view: card
       # columns: '1'
 
