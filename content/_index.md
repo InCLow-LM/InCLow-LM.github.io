@@ -69,19 +69,19 @@ sections:
     design:
       columns: '2'
 
-  # - block: collection
-  #   content:
-  #     title: Latest Publications
-  #     text: ""
-  #     count: 6
-  #     filters:
-  #       folders:
-  #         - publication
-  #       # publication_type: 'article'
-  #   design:
-  #     view: citation
-  #     # view: card
-  #     columns: '1'
+  - block: collection
+    content:
+      title: Latest Publications
+      text: ""
+      count: 6
+      filters:
+        folders:
+          - publication
+        # publication_type: 'article'
+    design:
+      # view: citation
+      view: card
+      columns: '2'
 
 
   # - block: collection
