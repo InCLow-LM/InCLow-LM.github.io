@@ -23,7 +23,7 @@ sections:
         
         - How to ensure safety, privacy, and transparency in conversational AI?
         
-        Therefore LESSEN is organized along three research lines, each of which constitutes two work packages to address scientific challenges of the project which are (i)  the development of neural architectures that are compute and resource efficient; (ii) domain adaptation and data augmentation; and (iii) safety, privacy, and transparency. By tackling urgent research topics, LESSEN aims to democratize conversational AI technology for the Dutch language. With strong connections to academic and industrial partners, LESSEN achieves to have a significant scientific impact by establishing new benchmarks, developing innovative methods, and enhancing collaboration within the research community.
+        #Therefore LESSEN is organized along three research lines, each of which constitutes two work packages to address scientific challenges of the project which are (i)  the development of neural architectures that are compute and resource efficient; (ii) domain adaptation and data augmentation; and (iii) safety, privacy, and transparency. By tackling urgent research topics, LESSEN aims to democratize conversational AI technology for the Dutch language. With strong connections to academic and industrial partners, LESSEN achieves to have a significant scientific impact by establishing new benchmarks, developing innovative methods, and enhancing collaboration within the research community.
 
         [InDeep Project](https://projects.illc.uva.nl/indeep/)[2021-]:
 
