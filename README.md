@@ -8,9 +8,9 @@ Go to `content`-`authors`, if your name is not there, please create a new folder
 
 ## How to update publications:
 
-Find your awesome works not on the websit? Simply paste their **bibtex** into `publications.bib` (**remember to add comma!**) and save it. Then it will appear on the InCLow homepage automatically! 
+Find your awesome paper not on the websit? Simply paste its **bibtex** into `publications.bib` under your name (e.g., `# Jirui Qi`). Then it will appear on the InCLow homepage automatically! 
 
-**It would be great if you could manually add 'year', 'url', 'month' fields (if not exists) for better visualization, like below:**
+**Plus, it would be great if you could manually add 'year', 'url', 'month' fields (if not exists), like below:**
 
 ```
 @inproceedings{your-awesome-paper,
