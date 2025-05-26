@@ -85,7 +85,7 @@ sections:
       # view: date-title-summary # Same format used by Publications page
       # view: masonry
       # view: card
-      # columns: '1'
+      columns: '2'
 
   - block: markdown
     content:

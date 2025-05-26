@@ -17,7 +17,7 @@ sections:
           - Senior Members
           - PhDs
           - Visitors
-          - Alumni
+          - Past members
           - Frequent Collaborators
       sort_by: Params.year
       sort_ascending: False

@@ -1,86 +1,55 @@
 ---
 # Display name
-title: Ahmet Üstün
+title: Akari Haga
 
 # Which year are you in?
 # It's used for sorting in each group (Prof/Postdoc/PhD)
 # e.g. 3rd year PhD should enter 3; 2nd Postdoc should enter 2
-year: 20
+year: 2
 
-# Full name (for SEO)
-first_name: Ahmet
-last_name: Üstün
+# Full name
+first_name: Akari
+last_name: Haga
 
-# Username (this should match the folder name)
+# Username (Insert your name)
 authors:
-  - Ahmet Üstün
+  - Akari Haga
 
-# Is this the primary user of the site?
-superuser: false
+# Your Role/position
+role: PhD Student
 
-# Role/position
-role: Researcher
-
-# Organizations/Affiliations
+# Your Organizations/Affiliations
 organizations:
-  - name: CohereAI
-    url: 'https://cohere.com/'
+  - name: Nara Institute of Science and Technology (NAIST)
+    url: 'https://www.naist.jp/en/'
 
-# # Short bio (displayed in user profile at end of posts)
-# bio: My research interests 
-
-# interests:
-#   - Natural Language Processing
-#   - Neural Model Interpretability
-#   - Machine Translation and Multilinguality
-#   - Efficient BabyLM Training
-#   - Morphology
-
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Fill in your social medias, if not applicable, you could simply comment that field
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:a.ustun@rug.nl'
+    link: 'mailto:haga.akari.ha0@is.naist.jp'
   - icon: user
     icon_pack: fas
-    link: https://ahmetustun.github.io/
+    link: https://akari000.github.io/ 
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/ahmetustun89
+    link: https://x.com/_akari000
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=fvotcRIAAAAJ&hl=t
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://scholar.google.com/citations?user=Lx7SsKkAAAAJ
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'a.ustun@rug.nl'
+email: 'haga.akari.ha0@is.naist.jp'
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+
+# Is this the primary user of the site? [No need to change]
+superuser: false
+
+# Organizational groups that you belong to [No need to change]
 user_groups:
-  - Alumni
-  # - Visitors
+  - Visitors
 ---
 
-Ahmet was a PhD supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/), [Gosse Bouma](https://www.let.rug.nl/gosse/) and [Gertjan van Noord](https://www.let.rug.nl/vannoord/). Currently, he works as a researcher at CohereAI.
+# You may give a short introduction of yourself.
+Akari Haga is a PhD student at Nara Institute of Science and Technology, Japan. Currently, she is visiting at InCLow group, CLCG, University of Groningen.
 
-For more details, check his [homepage](https://ahmetustun.github.io/).
+For more details, check her [homepage](https://akari000.github.io/).
