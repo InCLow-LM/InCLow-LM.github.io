@@ -22,12 +22,15 @@ sections:
 
         [LESSEN Project](https://lessen-project.nl/) [2023-]:
 
-        LESSEN is an NWO-funded Netherlands-based consortium bringing together academic and industrial partners working on safe and efficient chat-based AI assistants, with a focus on low-resource (retail) domains. Example partners are Albert Heijn, bol.com or KPN (Dutch telecommunication company), all of which handle large amounts of user requests daily through chatbots.
+        The LESSEN project aims to develop, implement, and test advanced chat-based conversational AI agents that are safe, transparent, and tailored for lesser-resourced tasks and domains. LESSEN concentrates on tasks, domains, and scenarios with fewer resources. By combining theoretical and experimental methodologies, LESSEN aims to tackle issues including computational efficiency, limited data availability, and privacy considerations. The project also aims to democratize conversational AI technology and promote its responsible use. Key research questions include:
 
-        Within this consortium, we specifically focus on studying and improving LLMs' abilities to answer user requests consistently in different languages, for instance using Retrieval-Augmented Generation techniques and inspecting model internals to attribute model answers to a specific textual source.
-
-        Key people: Jirui, Arianna, Raquel
-
+        - How to build and adapt conversational agents efficiently?
+        
+        - How to generate engaging conversations across low-resource domains?
+        
+        - How to ensure safety, privacy, and transparency in conversational AI?
+        
+        Therefore LESSEN is organized along three research lines, each of which constitutes two work packages to address scientific challenges of the project which are (i)  the development of neural architectures that are compute and resource efficient; (ii) domain adaptation and data augmentation; and (iii) safety, privacy, and transparency. By tackling urgent research topics, LESSEN aims to democratize conversational AI technology for the Dutch language. With strong connections to academic and industrial partners, LESSEN achieves to have a significant scientific impact by establishing new benchmarks, developing innovative methods, and enhancing collaboration within the research community.
 
         [InDeep Project](https://projects.illc.uva.nl/indeep/)[2021-]:
 
