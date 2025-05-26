@@ -7,7 +7,7 @@ authors:
 - Ana Guerberof-Arenas
 - Antonio Toral
 date: '2022-12-01'
-publishDate: '2025-05-26T10:38:39.419238Z'
+publishDate: '2025-05-26T12:08:41.231185Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2022 Conference on Empirical Methods in Natural

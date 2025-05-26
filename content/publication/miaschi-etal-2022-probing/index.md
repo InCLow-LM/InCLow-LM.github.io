@@ -8,7 +8,7 @@ authors:
 - Felice Dell'Orletta
 - Giulia Venturi
 date: '2022-07-01'
-publishDate: '2025-05-26T10:38:39.412686Z'
+publishDate: '2025-05-26T12:08:41.224809Z'
 publication_types:
 - article-journal
 publication: '*Italian Journal of Computational Linguistics (IJCoL)*'
