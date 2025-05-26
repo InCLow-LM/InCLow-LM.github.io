@@ -48,7 +48,7 @@ superuser: false
 
 # Organizational groups that you belong to [No need to change]
 user_groups:
-  - PhDs
+  # - PhDs
   - Visitors
 ---
 
