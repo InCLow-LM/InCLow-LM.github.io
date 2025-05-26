@@ -30,6 +30,7 @@ sections:
         </p>
       cta_note:
         label: <p><i> <font size="2"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
+        
   # - block: collection
   #   content:
   #     title: Latest News
