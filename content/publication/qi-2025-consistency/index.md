@@ -5,8 +5,8 @@ authors:
 - Jirui Qi
 - Raquel Fernández
 - Arianna Bisazza
-date: '2025-01-01'
-publishDate: '2025-05-20T16:32:12.718373Z'
+date: '2025-04-01'
+publishDate: '2025-05-26T10:38:39.263002Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2504.00597*'
