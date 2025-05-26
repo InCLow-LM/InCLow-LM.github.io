@@ -58,6 +58,8 @@ sections:
         **[May 2025]** [Jaap](https://jumelet.ai/) gave a [talk in Edinburgh](https://informatics.ed.ac.uk/ilcc/news-events/seminars-2025/friday-2nd-may-at-11am-jaap-jumelet) on [MultiBLiMP: A Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768).
         
         **[May 2025]** Master student Anais Almendra from the University of Chile joined us for a 3-month visit. She works on morphological analysis of the endangered language Madupungun.
+
+        **[April 2025]** [Gabriele](https://gsarti.com) presented his research on [word-level quality estimation for post-editing](https://arxiv.org/abs/2503.03044) and [context](https://openreview.net/forum?id=XTHfNGI3zT) [attribution](https://aclanthology.org/2024.emnlp-main.347/) for language models at the [Multilinguality and Language Technology group of DFKI Saarland](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) and the [DEEL](https://www.irt-saintexupery.com/deel-le-programme-en-intelligence-artificielle-robuste-et-explicable-entre-dans-sa-phase-2/)/[FOR](https://www.irt-saintexupery.com/for-program/) teams at [IRT Saint-Éxupery](https://www.irt-saintexupery.com/).
         
         **[April 2025]** [Jirui](https://betswish.github.io/) gave two talks at [KPN](https://www.kpn.com/algemeen/english) and [University of Amsterdam](https://www.uva.nl/en) on three topics on Retrieval Augmented Generation ([MIRAGE](https://aclanthology.org/2024.emnlp-main.347/), [likelihood gauges answer accuracy](https://aclanthology.org/2025.naacl-long.78/), and [Consistency in Multilingual Context Utilization](https://arxiv.org/abs/2504.00597))
 
@@ -80,9 +82,9 @@ sections:
         # publication_type: 'article'
     design:
       view: citation
+      # view: date-title-summary # Same format used by Publications page
       # view: masonry
       # view: card
-      # view: date-title-summary
       # columns: '1'
 
   - block: markdown

@@ -3,6 +3,7 @@
   title={On the Consistency of Multilingual Context Utilization in Retrieval-Augmented Generation},
   author={Qi, Jirui and Fern{\'a}ndez, Raquel and Bisazza, Arianna},
   journal={arXiv preprint arXiv:2504.00597},
+  month=apr,
   year={2025},
   url={https://arxiv.org/abs/2504.00597},
   abstract={Retrieval-augmented generation (RAG) with large language models (LLMs) has demonstrated strong performance in multilingual question-answering (QA) tasks by leveraging relevant passages retrieved from corpora. In multilingual RAG (mRAG), the retrieved passages can be written in languages other than that of the query entered by the user, making it challenging for LLMs to effectively utilize the provided information. Recent research suggests that retrieving passages from multilingual corpora can improve RAG performance, particularly for low-resource languages. However, the extent to which LLMs can leverage different kinds of multilingual contexts to generate accurate answers, *independently from retrieval quality*, remains understudied. In this paper, we conduct an extensive assessment of LLMs' ability to (i) make consistent use of a relevant passage regardless of its language, (ii) respond in the expected language, and (iii) focus on the relevant passage even when multiple `distracting' passages in different languages are provided in the context. Our experiments with four LLMs across three QA datasets covering a total of 48 languages reveal a surprising ability of LLMs to extract the relevant information from out-language passages, but a much weaker ability to formulate a full answer in the correct language. Our analysis, based on both accuracy and feature attribution techniques, further shows that distracting passages negatively impact answer quality regardless of their language. However, distractors in the query language exert a slightly stronger influence. Taken together, our findings deepen the understanding of how LLMs utilize context in mRAG systems, providing directions for future improvements.}
@@ -88,17 +89,6 @@
     abstract = "Recent work suggests that large language models enhanced with retrieval-augmented generation are easily influenced by the order in which the retrieved documents are presented to the model when solving tasks such as question answering (QA).However, there is no method to date that exploits this phenomenon to improve generation.To fill this gap, in this study, we show that the pointwise mutual information between a context and a question is an effective gauge for language model performance.Importantly, this gauge does not depend on knowing the answer to the question \textit{a priori}.Through experiments on two question-answering datasets using a variety of large language models, we find evidence for an empirical correlation between answer accuracy and pointwise mutual information.Additionally, we propose two methods that use the pointwise mutual information between a document and a question as a gauge for selecting and constructing prompts that lead to better performance, whose effectiveness we demonstrate through experimentation."
 }
 
-@inproceedings{sarti2024democratizing,
-  title={Democratizing Advanced Attribution Analyses of Generative Language Models with the Inseq Toolkit},
-  author={Sarti, Gabriele and Feldhus, Nils and Qi, Jirui and Nissim, Malvina and Bisazza, Arianna},
-  booktitle={Joint of the 2nd World Conference on eXplainable Artificial Intelligence Late-Breaking Work, Demos and Doctoral Consortium, xAI-2024: LB/D/DC},
-  pages={289--296},
-  year={2024},
-  url={https://ceur-ws.org/Vol-3793/paper_37.pdf},
-  abstract={Inseq is a recent toolkit providing an intuitive and optimized interface to conduct feature attribution analyses of generative language models. In this work, we present the latest improvements to the library, including efforts to simplify the attribution of large language models on consumer hardware, additional attribution approaches, and a new client command to detect and attribute context usage in language model generations. We showcase an online demo using Inseq as an attribution backbone for context reliance analysis, and we highlight interesting contextual patterns in language model generations. Ultimately, this release furthers Inseq’s mission of centralizing good interpretability practices and enabling fair and reproducible model evaluations.},
-  organization={CEUR Workshop Proceedings (CEUR-WS. org)}
-}
-
 
 # Francesca Padovani (To be replaced with papers published since joining the gropu!)
 @inproceedings{padovani2024automatic,
@@ -153,6 +143,14 @@
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2503.03044}, 
+}
+
+@article{scalena-sarti-etal-2025-steering,
+	title = {Steering Large Language Models for Machine Translation Personalization},
+	author = {Daniel Scalena and Gabriele Sarti and Arianna Bisazza and Elisabetta Fersini and Malvina Nissim},
+	year = 2025,
+	journal = {Arxiv Preprint},
+	url = {https://arxiv.org/abs/2505.16612}
 }
 
 @inproceedings{sarti-etal-2024-verbis,
@@ -418,12 +416,3 @@
   url          = {https://ceur-ws.org/Vol-3596/paper9.pdf},
 }
 
-@article{scalena-sarti-etal-2025-steering,
-	title = {Steering Large Language Models for Machine Translation Personalization},
-	author = {Daniel Scalena and Gabriele Sarti and Arianna Bisazza and Elisabetta Fersini and Malvina Nissim},
-	year = 2025,
-	journal = {Arxiv Preprint},
-	url = {https://arxiv.org/abs/2505.16612}
-}
-
-# Yuqing Zhang

@@ -122,6 +122,8 @@ publications:
   date_format: January 2006
   citation_style: apa
   # citation_style: mla
-  disable_links_authors: true
+  # disable_links_authors: true
   # blox: "single"
+  # design:
+  #   view: citation
 
