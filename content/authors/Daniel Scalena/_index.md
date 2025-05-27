@@ -16,7 +16,7 @@ authors:
   - Daniel Scalena
 
 # Your Role/position
-role: Double PhD
+role: PhD Student
 
 # Your Organizations/Affiliations
 organizations:
