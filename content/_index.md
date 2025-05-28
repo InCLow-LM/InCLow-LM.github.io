@@ -20,6 +20,7 @@ sections:
         - What can we learn about human language while attempting to do that?
 
         We’re proudly part of the larger Computational Linguistics group (<a href="https://www.rug.nl/research/clcg/research/cl">GroNLP</a>) at the University of Groningen, the Netherlands.
+        </font>
 
 #       <p>We’re proudly part of the larger Computational Linguistics group
 #       <span style="line-height: 1.5; display: inline-flex; align-items: center;">
@@ -28,7 +29,6 @@ sections:
 #        </span>
 #        ) at the University of Groningen, the Netherlands.
 #        </p>
-        </font>
   #    cta_note:
   #      label: <p><i> <font size="2"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
         
