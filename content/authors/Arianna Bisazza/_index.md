@@ -81,9 +81,11 @@ user_groups:
   # - Visitors
 ---
 
-Arianna is Associate Professor at InCLow Group in the Computational Linguistics Group of the University of Groningen.
+Arianna is Associate Professor at the University of Groningen, where she has founded the InCLow Group.
 
-Her research was funded by a Veni grant from the Dutch Research Council (NWO) from 2016 to 2021. Currently, I am involved in two national-consortium projects, both funded by NWO's [NWA-ORC](https://initiatieven.wetenschapsagenda.nl/en) initiatives: [Interpreting deep learning models for language, speech & music (InDeep)](https://projects.illc.uva.nl/indeep/) and [Low Resource Chat-based Conversational Intelligence (LESSEN)](https://lessen-project.nl/). I also supervise two China Scholarship Council (CSC)-funded PhD students working on the simulation of human patterns of language learning and change. I have just started a NWO [Vidi grant to improve language modeling for (low-resource) morphologically rich languages](https://www.nwo.nl/en/news/97-leading-researchers-receive-vidi-grants), taking inspiration from child language acquisition insights.
+Her research is funded by a NWO [Vidi grant](https://www.nwo.nl/en/news/97-leading-researchers-receive-vidi-grants) aimed at improving low-resource language modeling taking inspiration from child language acquisition insights. 
+She is also part of two national-consortium projects, both funded by [NWA-ORC](https://initiatieven.wetenschapsagenda.nl/en) initiatives: Interpreting deep learning models for language, speech & music [(InDeep)](https://projects.illc.uva.nl/indeep/) and Low Resource Chat-based Conversational Intelligence [(LESSEN)](https://lessen-project.nl/). 
+As part of a collaboration with Tessa Verhoef (Leiden University), she co-supervises two China Scholarship Council (CSC)-funded PhD students working on the simulation of human patterns of language learning and change. 
 
 For more details, check her [homepage](https://www.cs.rug.nl/~bisazza/).
 
