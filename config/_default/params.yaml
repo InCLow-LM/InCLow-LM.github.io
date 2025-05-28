@@ -50,7 +50,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}. Photos credit: <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a>'
+    notice: '© {year} Me. This work is licensed under {license}.<br/> Photos credit: <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a>'
     license:
       enable: true
       allow_derivatives: false
