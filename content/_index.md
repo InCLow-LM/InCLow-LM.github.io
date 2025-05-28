@@ -8,10 +8,8 @@ sections:
   - block: hero
     content:
       # title: InCLow Research Group
-      image:
-        filename: welcome.jpg
       text: |
-        Welcome to our homepage! InCLow stands for Interpretable, Cognitively inspired, Low-resource Language Models.
+        <font size="4"> Welcome to our homepage! InCLow stands for Interpretable, Cognitively inspired, Low-resource Language Models.
 
         We are a thriving research team working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
 
@@ -26,8 +24,10 @@ sections:
         </span>
         at the University of Groningen, the Netherlands.
         </p>
-      cta_note:
-        label: <p><i> <font size="2"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
+    image:
+    filename: welcome.jpg
+  #    cta_note:
+  #      label: <p><i> <font size="2"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
         
   # - block: collection
   #   content:
