@@ -81,6 +81,6 @@ user_groups:
   # - Visitors
 ---
 
-Ahmet was a PhD supervised by [Arianna Bisazza](https://www.cs.rug.nl/~bisazza/), [Gosse Bouma](https://www.let.rug.nl/gosse/) and [Gertjan van Noord](https://www.let.rug.nl/vannoord/). Currently, he works as a researcher at CohereAI.
+Ahmet did his PhD with [Gosse Bouma](https://www.let.rug.nl/gosse/), Arianna Bisazza, and [Gertjan van Noord](https://www.let.rug.nl/vannoord/). Currently, he works as a researcher at CohereAI.
 
 For more details, check his [homepage](https://ahmetustun.github.io/).
