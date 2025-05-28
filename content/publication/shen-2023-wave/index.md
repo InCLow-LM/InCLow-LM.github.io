@@ -6,7 +6,7 @@ authors:
 - Arianna Bisazza
 - Grzegorz Chrupała
 date: '2023-08-01'
-publishDate: '2025-05-28T10:26:40.517520Z'
+publishDate: '2025-05-28T10:32:12.585012Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of Interspeech 2023*'
