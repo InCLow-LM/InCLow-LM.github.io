@@ -11,8 +11,6 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
         Welcome to our homepage! InCLow stands for Interpretable, Cognitively inspired, Low-resource Language Models.
 
         We are a thriving research team working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
