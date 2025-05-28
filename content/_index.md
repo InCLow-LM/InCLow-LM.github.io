@@ -8,6 +8,8 @@ sections:
   - block: hero
     content:
       # title: InCLow Research Group
+      image:
+        filename: welcome.jpg
       text: |
         <font size="3"> Welcome to our homepage! **InCLow** stands for **In**terpretable, **C**ognitively inspired, **Low**-resource Language Models.
 
@@ -17,16 +19,16 @@ sections:
         
         - What can we learn about human language while attempting to do that?
 
-        <p>We’re proudly part of the larger Computational Linguistics group
-        <span style="line-height: 1.5; display: inline-flex; align-items: center;">
-        (<a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">GroNLP </a>
-        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">)
-        </span>
-        at the University of Groningen, the Netherlands.
-        </p>
+        We’re proudly part of the larger Computational Linguistics group (<a href="https://www.rug.nl/research/clcg/research/cl">GroNLP</a>) at the University of Groningen, the Netherlands.
+
+#       <p>We’re proudly part of the larger Computational Linguistics group
+#       <span style="line-height: 1.5; display: inline-flex; align-items: center;">
+#        (<a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">GroNLP </a>
+#        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+#        </span>
+#        ) at the University of Groningen, the Netherlands.
+#        </p>
         </font>
-      image:
-        filename: welcome.jpg
   #    cta_note:
   #      label: <p><i> <font size="2"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
         
