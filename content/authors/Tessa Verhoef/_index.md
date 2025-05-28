@@ -59,9 +59,9 @@ social:
   - icon: user
     icon_pack: fas
     link: https://sites.google.com/view/tessa-verhoef/home
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/VerhoefTessa
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://x.com/VerhoefTessa
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PyQX978AAAAJ&hl=en
@@ -80,7 +80,7 @@ user_groups:
   - Frequent Collaborators
 ---
 
-Tessa is an Assistant Professor at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) where she leads the [Emergent Communication Group](https://sites.google.com/view/tessa-verhoef/group), co-founded the [Creative Intelligence Lab](https://cil.universiteitleiden.nl/) and conduct research at the intersection of language, cognition, cultural evolution and computation. 
+Tessa is an Assistant Professor at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) where she leads the [Emergent Communication Group](https://sites.google.com/view/tessa-verhoef/group), co-founded the [Creative Intelligence Lab](https://cil.universiteitleiden.nl/) and conducts research at the intersection of language, cognition, cultural evolution and computation. 
 
 
 For more details, check her [homepage](https://yevgen.web.rug.nl/index.html).
