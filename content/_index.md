@@ -15,7 +15,7 @@ sections:
 
         We are a thriving research team led by Arianna Bisazza, working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
 
-        - How to develop language technologies that work well for a large variety of languages?
+        - How to develop reliable language technologies that work well for a large variety of languages?
         
         - What can we learn about human language while attempting to do that?
 
