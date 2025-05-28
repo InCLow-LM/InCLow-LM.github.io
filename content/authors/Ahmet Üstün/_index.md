@@ -59,9 +59,9 @@ social:
   - icon: user
     icon_pack: fas
     link: https://ahmetustun.github.io/
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/ahmetustun89
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://x.com/ahmetustun89
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=fvotcRIAAAAJ&hl=t
