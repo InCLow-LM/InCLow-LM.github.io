@@ -18,7 +18,7 @@ sections:
 
         To scale up the research to a broader set of languages, we also develop new grammatical evaluation benchmarks in a cross-lingual or language-specific way, as well as collecting developmentally plausible LM training datasets in non-English languages.
 
-        Key people: Arianna, Jaap, Francesca
+        Key people: Francesca, Jaap, Arianna, Yevgen
 
         **********************************************************************************
 
@@ -28,15 +28,17 @@ sections:
 
         Within this consortium, we specifically focus on studying and improving LLMs' abilities to answer user requests consistently in different languages, for instance using Retrieval-Augmented Generation techniques and inspecting model internals to attribute model answers to a specific textual source.
 
-        Key people: Jirui, Arianna, Raquel
+        Key people: Jirui, Arianna, Raquel Fernández
 
         **********************************************************************************
 
         [InDeep Project](https://projects.illc.uva.nl/indeep/) [2021-]:
 
-        In the InDeep project pioneering researchers in the domain of interpretability of deep learning models of text, language, speech and music are brought together. They collaborate with companies and non-for-profit institutions working with language, speech and music technology, to develop applications that help assess the usefulness of alternative interpretability techniques on a range of different tasks. In “justification” tasks, we look at how interpretability techniques help give users meaningful feedback. Examples include legal and medical document text mining and audio search. In “augmentation” tasks we look at how these techniques facilitate the use of domain knowledge and models from outside deep learning to make the models perform even better. Examples include machine translation, music recommendation and writing feedback. In “interaction” tasks we allow users to influence the functioning of their automated systems, by providing both interpretable information on how the system operates, and letting human produced output find its way into the internal states of the learning algorithm. Examples include adapting speech recognition to non-standard accents and dialects, interactive music generation, and machine assisted translation.
+       InDeep is a NWO-funded research consortium working on the interpretability of deep learning models of text, language, speech and music.
 
-        Key people: Gabriele, Arianna, Malvina, Grzegorz
+Within this consortium, we focus on the application of model-internal analysis techniques to LLM generation tasks, such as machine translation and RAG-based question answering. We aim at bridging the gap betweem scientific advances and user needs by developing toolkits that facilite access to advanced interpretability techniques (e.g. InSeq, MIRAGE) and by conducting user studies with professional translators.
+
+        Key people: Gabriele, Arianna, Malvina Nissim, Grzegorz Chrupała
 
         **********************************************************************************
 
@@ -48,7 +50,7 @@ sections:
 
         To pursue this line of work, we've been fortunate to supervise two PhD students funded by the China Scholarship Council.
 
-        Key people: Arianna, Tessa, Yuchen, Yuqing
+        Key people: Yuqing, Arianna, Tessa Verhoef, Yuchen Lian 
 
         **********************************************************************************
   - block: markdown
