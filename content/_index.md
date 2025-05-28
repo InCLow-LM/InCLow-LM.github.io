@@ -9,9 +9,9 @@ sections:
     content:
       # title: InCLow Research Group
       text: |
-        <font size="4"> Welcome to our homepage! InCLow stands for Interpretable, Cognitively inspired, Low-resource Language Models.
+        <font size="3"> Welcome to our homepage! **InCLow** stands for **In**terpretable, **C**ognitively inspired, **Low**-resource Language Models.
 
-        We are a thriving research team working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
+        We are a thriving research team led by Arianna Bisazza, working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
 
         - How to develop language technologies that work well for a large variety of languages?
         
@@ -19,13 +19,14 @@ sections:
 
         <p>We’re proudly part of the larger Computational Linguistics group
         <span style="line-height: 1.5; display: inline-flex; align-items: center;">
-        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
-        <a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">GroNLP </a>
+        (<a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">GroNLP </a>
+        <img src="https://raw.githubusercontent.com/InCLow-LM/InCLow-LM.github.io/refs/heads/main/assets/media/gronlp.png" alt="GroNLP logo" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">)
         </span>
         at the University of Groningen, the Netherlands.
         </p>
-    image:
-    filename: welcome.jpg
+        </font>
+      image:
+        filename: welcome.jpg
   #    cta_note:
   #      label: <p><i> <font size="2"> Appreciations to <a href="https://www.linkedin.com/in/maria-pilar-uribe-silva"> Maria Pilar Uribe-Silva </a> for the wonderful team photograph! </font> </i></p>
         
