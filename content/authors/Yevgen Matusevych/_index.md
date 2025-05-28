@@ -5,7 +5,7 @@ title: Yevgen Matusevych
 # Which year are you in?
 # It's used for sorting in each group (Prof/Postdoc/PhD)
 # e.g. 3rd year PhD should enter 3; 2nd Postdoc should enter 2
-year: 25
+year: 5
 
 # Full name (for SEO)
 first_name: Yevgen 
@@ -77,7 +77,7 @@ email: 'yevgen.matusevych@rug.nl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Frequent Collaborators
+  - Senior Members
 ---
 
 Yevgen works at the [Computational Linguistics group](https://www.rug.nl/research/clcg/research/cl/?lang=en), which is a part of [Center for Language and Cognition](https://www.rug.nl/research/clcg/) at the University of Groningen, the Netherlands. He uses computational models to understand how humans learn their native and non-native languages, and how languages co-exist in the mind and in models. He is affiliated with the broader theme of Humane AI.
