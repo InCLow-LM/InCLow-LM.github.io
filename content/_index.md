@@ -56,6 +56,8 @@ sections:
       title: Latest News
       subtitle:
       text: |
+        **[May 2025]** Arianna and Gabriele were interviewed by Groningen's Oog Radio station. The questions covered (of course) AI, but also the GroNLP group, what makes this research field so exciting (and a bit crazy nowadays!)... and a bit of music :) Recording available [here](https://youtu.be/-PuOK5SYp4c?si=2iR2dcwagbto5LaH).
+
         **[May 2025]** [Jaap](https://jumelet.ai/) gave a [talk in Edinburgh](https://informatics.ed.ac.uk/ilcc/news-events/seminars-2025/friday-2nd-may-at-11am-jaap-jumelet) on [MultiBLiMP: A Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768).
         
         **[May 2025]** Master student Anais Almendra from the University of Chile joined us for a 3-month visit. She works on morphological analysis of the endangered language Madupungun.
