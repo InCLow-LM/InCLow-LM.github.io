@@ -49,7 +49,6 @@ user_groups:
   - Visitors
 ---
 
-# You may give a short introduction of yourself.
 Akari Haga is a PhD student at Nara Institute of Science and Technology, Japan. Currently, she is visiting at InCLow group, CLCG, University of Groningen.
 
 For more details, check her [homepage](https://akari000.github.io/).
