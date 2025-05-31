@@ -6,7 +6,7 @@ authors:
 - Arianna Bisazza
 - Tessa Verhoef
 date: '2025-07-01'
-publishDate: '2025-05-31T09:43:00.001893Z'
+publishDate: '2025-05-31T09:47:35.281943Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 47th Annual Conference of the Cognitive Science
