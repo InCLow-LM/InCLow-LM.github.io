@@ -10,7 +10,7 @@ sections:
       title: InCLow Reading Groups
       text: |-
         **********************************************************************************        
-        We held reading groups on a regular schedule. 
+        **We held reading groups on a regular schedule.**
         
         **Take a look at our rolling agenda and welcome to join!**
         
