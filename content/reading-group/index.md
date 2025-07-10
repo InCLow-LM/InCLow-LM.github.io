@@ -7,10 +7,10 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: InCLow Reading Groups
+      title: InCLow Reading Group
       text: |-
         **********************************************************************************        
-        **Every two weeks, we hold a reading group on the topics of Interpretable, Cognitively inspired, Low-resource Language Models..**
+        **Every two weeks, we hold a reading group on the topics of Interpretable, Cognitively inspired, Low-resource Language Models.**
         
         Here's our rolling agenda:
         <div style="position: relative; width: 100%; padding-top: 101.4%; height: 0; overflow: hidden;">
