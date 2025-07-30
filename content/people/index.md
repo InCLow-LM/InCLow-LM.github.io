@@ -17,8 +17,8 @@ sections:
           - Senior Members
           - PhDs
           - Visitors
-          - Frequent Collaborators
           - Past members
+          - Frequent Collaborators
       sort_by: Params.year
       sort_ascending: False
     design:
