@@ -81,8 +81,8 @@ user_groups:
   - Frequent Collaborators
 ---
 
-Raquel is Professor of Computational Linguistics & Dialogue Systems at the University of Amsterdam and the Vice-Director for Research at the [Institute for Logic, Language & Computatio](https://www.illc.uva.nl/) (ILLC). She is a [Fellow](https://ellis.eu/fellows) of the [ELLIS Society](https://ellis.eu/) (the European Laboratory on Learning and Intelligent Systems) and a board member of the [ELLIS Amsterdam Unit](https://ivi.fnwi.uva.nl/ellis/).
+<!-- Raquel is Professor of Computational Linguistics & Dialogue Systems at the University of Amsterdam and the Vice-Director for Research at the [Institute for Logic, Language & Computatio](https://www.illc.uva.nl/) (ILLC). She is a [Fellow](https://ellis.eu/fellows) of the [ELLIS Society](https://ellis.eu/) (the European Laboratory on Learning and Intelligent Systems) and a board member of the [ELLIS Amsterdam Unit](https://ivi.fnwi.uva.nl/ellis/).
 
-She is interested in natural language processing (NLP) by humans and machines, regarding both language understanding and generation. In her research, she uses computational tools including deep learning models to investigate how cognitive constraints, social interaction, and perception shape language use.
+She is interested in natural language processing (NLP) by humans and machines, regarding both language understanding and generation. In her research, she uses computational tools including deep learning models to investigate how cognitive constraints, social interaction, and perception shape language use. -->
 
-For more details, check her [homepage](https://staff.fnwi.uva.nl/r.fernandezrovira/).
+For details, check her [homepage](https://staff.fnwi.uva.nl/r.fernandezrovira/).
