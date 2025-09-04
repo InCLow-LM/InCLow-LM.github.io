@@ -13,7 +13,7 @@ sections:
       text: |
         <font size="3"> Welcome to our homepage! **InCLow** stands for **In**terpretable, **C**ognitively inspired, **Low**-resource Language Models.
 
-        We are a thriving research team led by Arianna Bisazza, working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
+        We are a thriving research team led by [Arianna Bisazza](https://inclow-lm.github.io/author/arianna-bisazza/), working at the intersection of natural language processing and (cognitive) linguistics. Our [projects](https://inclow-lm.github.io/projects/) revolve around two key questions:
 
         - How to develop reliable language technologies that work well for a large variety of languages?
         
