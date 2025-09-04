@@ -5,7 +5,7 @@ title: Ezgi Başar
 # Which year are you in?
 # It's used for sorting in each group (Prof/Postdoc/PhD)
 # e.g. 3rd year PhD should enter 3; 2nd Postdoc should enter 2
-year: 2
+year: 1
 
 # Full name
 first_name: Ezgi
@@ -16,7 +16,7 @@ authors:
   - Ezgi Başar
 
 # Your Role/position
-role: Master's Student
+role: PhD Student
 
 # Your Organizations/Affiliations
 organizations:
@@ -46,9 +46,10 @@ superuser: false
 
 # Organizational groups that you belong to [No need to change]
 user_groups:
-  - Visitors
+  - PhDs
+  # - Visitors
 ---
 
-Ezgi is a Master's student at the University of Groningen. She is currently visiting the InCLow group.
+Ezgi is a Master's student at the University of Groningen. She will soon start her PhD in the InCLow group, supervised by Yevgen Matusevych, Annemarie van Dooren.
 
 For more details, check her [homepage](https://ezgibasar.github.io).
