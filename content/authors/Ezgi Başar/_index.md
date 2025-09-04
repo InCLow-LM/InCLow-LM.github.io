@@ -50,6 +50,6 @@ user_groups:
   # - Visitors
 ---
 
-Ezgi is a Master's student at the University of Groningen. She will soon start her PhD in the InCLow group, supervised by Yevgen Matusevych, Annemarie van Dooren.
+Ezgi is a Master's student at the University of Groningen. She will soon start her PhD in the InCLow group, supervised by Yevgen Matusevych, Annemarie van Dooren, and Arianna Bisazza.
 
 For more details, check her [homepage](https://ezgibasar.github.io).
