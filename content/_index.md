@@ -62,9 +62,10 @@ sections:
         unsupervised word-quality estimation for MT post-editing ([Gabriele](https://inclow-lm.github.io/author/gabriele-sarti)),
         controlling the thinking language in large reasoning models ([Jirui](https://inclow-lm.github.io/author/jirui-qi)),
         a neural-agent communication framework to study lexical change ([Yuqing](https://inclow-lm.github.io/author/yuqing-zhang)),
-    training LMs on child-directed language ([Francesca](https://inclow-lm.github.io/author/francesca-padovani])),
-    a Turkish benchmark of grammatical minimal pairs ([Ezgi](https://inclow-lm.github.io/author/ezgi-basar]) & a massively multilingual one, MultiBLiMP ([Jaap](https://inclow-lm.github.io/author/jaap-jumelet/)),
-    the effect of stereotypes on LLM’s implicit personalization (Arianna, paper led by [Vera Neplenbroek](https://veranep.github.io)).
+        training LMs on child-directed language ([Francesca](https://inclow-lm.github.io/author/francesca-padovani)),
+        a Turkish benchmark of grammatical minimal pairs ([Ezgi](https://inclow-lm.github.io/author/ezgi-basar)) &
+        a massively multilingual one, MultiBLiMP ([Jaap](https://inclow-lm.github.io/author/jaap-jumelet/)),
+        the effect of stereotypes on LLM’s implicit personalization (Arianna, paper led by [Vera Neplenbroek](https://veranep.github.io)).
     
         **[Jun 2025]** Arianna gave a talk at the [COLT Symposium](https://www.upf.edu/web/colt/symposium), organized by Gemma Boleda and Marco Baroni at UPF, Barcelona. This was followed by a round-table on the convergence (or lack thereof) between findings coming from the fields of experimental and theoretical linguistics, neuroscience and the study of large language models.
 
