@@ -58,7 +58,13 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou!
+        **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou! The paper topics in brief are
+    unsupervised word-quality estimation for MT post-editing ([https://inclow-lm.github.io/author/gabriele-sarti](Gabriele)),
+    controlling the thinking language in large reasoning models ([https://inclow-lm.github.io/author/jirui-qi](Jirui)),
+    a neural-agent communication framework to study lexical change ([https://inclow-lm.github.io/author/yuqing-zhang](Yuqing)),
+    training LMs on child-directed language ([https://inclow-lm.github.io/author/francesca-padovani](Francesca)),
+    a Turkish benchmark of grammatical minimal pairs ([https://inclow-lm.github.io/author/ezgi-basar](Ezgi)) & a massively multilingual one, MultiBLiMP ([https://inclow-lm.github.io/author/jaap-jumelet/](Jaap)),
+    the effect of stereotypes on LLM’s implicit personalization (Arianna, paper led by [https://veranep.github.io](Vera Neplenbroek)).
     
         **[Jun 2025]** Arianna gave a talk at the [COLT Symposium](https://www.upf.edu/web/colt/symposium), organized by Gemma Boleda and Marco Baroni at UPF, Barcelona. This was followed by a round-table on the convergence (or lack thereof) between findings coming from the fields of experimental and theoretical linguistics, neuroscience and the study of large language models.
 
