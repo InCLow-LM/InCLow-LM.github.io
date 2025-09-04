@@ -9,7 +9,7 @@ authors:
 date: '2025-05-01'
 publishDate: '2025-05-31T09:47:35.509479Z'
 publication_types:
-- manuscript
+- conference paper
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2505.23689
