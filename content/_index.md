@@ -23,7 +23,7 @@ sections:
 
         Take a look at our [team members](https://inclow-lm.github.io/people/), [publications](https://inclow-lm.github.io/publication/), and [reading group](https://inclow-lm.github.io/reading-group/) agenda!
         </font>
-
+ 
 #       <p>We’re proudly part of the larger Computational Linguistics group
 #       <span style="line-height: 1.5; display: inline-flex; align-items: center;">
 #        (<a href="https://www.rug.nl/research/clcg/research/cl/" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">GroNLP </a>
