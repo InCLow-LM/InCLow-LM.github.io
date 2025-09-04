@@ -6,7 +6,7 @@ authors:
 - Ludwig Sickert
 - Oskar van der Wal
 date: '2023-07-01'
-publishDate: '2025-09-04T10:23:11.050166Z'
+publishDate: '2025-09-04T12:09:45.865884Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 61st Annual Meeting of the Association for Computational

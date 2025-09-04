@@ -6,7 +6,7 @@ authors:
 - Yevgen Matusevych
 - Herman Kamper
 date: '2025-01-01'
-publishDate: '2025-09-04T10:23:11.095305Z'
+publishDate: '2025-09-04T12:09:45.911270Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of Interspeech 2025*'
