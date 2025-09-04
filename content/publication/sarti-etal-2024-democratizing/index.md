@@ -8,7 +8,7 @@ authors:
 - Malvina Nissim
 - Arianna Bisazza
 date: '2024-07-01'
-publishDate: '2025-09-04T14:56:25.673722Z'
+publishDate: '2025-09-04T16:00:32.839849Z'
 publication_types:
 - paper-conference
 publication: '*xAI-2024 Late-breaking Work, Demos and Doctoral Consortium Joint Proceedings*'
