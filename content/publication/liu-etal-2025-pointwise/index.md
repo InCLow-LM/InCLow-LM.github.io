@@ -9,7 +9,7 @@ authors:
 - Mrinmaya Sachan
 - Ryan Cotterell
 date: '2025-04-01'
-publishDate: '2025-09-04T12:09:45.756419Z'
+publishDate: '2025-09-04T12:13:02.243737Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2025 Conference of the Nations of the Americas Chapter
