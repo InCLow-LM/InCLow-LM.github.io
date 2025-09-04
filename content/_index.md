@@ -58,6 +58,8 @@ sections:
       title: Latest News
       subtitle:
       text: |
+        **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou!
+    
         **[Jun 2025]** Arianna gave a talk at the [COLT Symposium](https://www.upf.edu/web/colt/symposium), organized by Gemma Boleda and Marco Baroni at UPF, Barcelona. This was followed by a round-table on the convergence (or lack thereof) between findings coming from the fields of experimental and theoretical linguistics, neuroscience and the study of large language models.
 
         **[May 2025]** Arianna and Gabriele were interviewed by Groningen's Oog Radio station. The questions covered (of course) AI, but also the GroNLP group, what makes this research field so exciting (and a bit crazy nowadays!)... and a bit of music :) Recording available here: [HappyHourFM](https://www.youtube.com/watch?v=-PuOK5SYp4c).
