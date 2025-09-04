@@ -7,7 +7,7 @@ authors:
 - Arianna Bisazza
 - Grzegorz Chrupała
 date: '2024-06-01'
-publishDate: '2025-09-04T14:56:25.478409Z'
+publishDate: '2025-09-04T16:00:32.645757Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2024 Conference of the North American Chapter of
