@@ -7,9 +7,9 @@ authors:
 - Yevgen Matusevych
 - Arianna Bisazza
 date: '2025-05-01'
-publishDate: '2025-05-31T09:47:35.509479Z'
+publishDate: '2025-09-04T10:23:11.082804Z'
 publication_types:
-- paper-conference
+- manuscript
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2505.23689
