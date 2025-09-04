@@ -58,8 +58,9 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou! The paper topics in brief are
-        unsupervised word-quality estimation for MT post-editing ([Gabriele](https://inclow-lm.github.io/author/gabriele-sarti)), controlling the thinking language in large reasoning models ([Jirui](https://inclow-lm.github.io/author/jirui-qi)),
+        **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou! Our paper topics in brief:
+        unsupervised word-quality estimation for MT post-editing ([Gabriele](https://inclow-lm.github.io/author/gabriele-sarti)),
+        controlling the thinking language in large reasoning models ([Jirui](https://inclow-lm.github.io/author/jirui-qi)),
     
         **[Jun 2025]** Arianna gave a talk at the [COLT Symposium](https://www.upf.edu/web/colt/symposium), organized by Gemma Boleda and Marco Baroni at UPF, Barcelona. This was followed by a round-table on the convergence (or lack thereof) between findings coming from the fields of experimental and theoretical linguistics, neuroscience and the study of large language models.
 
