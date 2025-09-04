@@ -41,10 +41,11 @@ superuser: false
 
 # Organizational groups that you belong to [No need to change]
 user_groups:
-  - Visitors
+  - Past members
+  # - Visitors
 ---
 
 # You may give a short introduction of yourself.
-Anaís M. Almendra C. is a Master's student in Linguistics at the Universidad de Chile. Her research focuses on developing computational tools for indigenous languages, particularly morphological analysis of Mapudungun, an indigenous language spoken in Chile and Argentina. Currently, she is visiting the InCLow group at CLCG, University of Groningen, to explore new computational methods for improving existing morphological analyzers for Mapudungun.
+Anaís M. Almendra C. is a Master's student in Linguistics at the Universidad de Chile. Her research focuses on developing computational tools for indigenous languages, particularly morphological analysis of Mapudungun, an indigenous language spoken in Chile and Argentina. In the spring 2025, she visited the InCLow group to explore new computational methods for improving existing morphological analyzers for Mapudungun.
 
 For more details, check her Linkedin (https://www.linkedin.com/in/anaísalmendra/).
