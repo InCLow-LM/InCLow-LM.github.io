@@ -7,7 +7,7 @@ authors:
 - Gertjan van Noord
 - Arianna Bisazza
 date: '2024-01-01'
-publishDate: '2025-05-31T09:47:35.384969Z'
+publishDate: '2025-09-04T10:23:10.957846Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Annual Meeting of the Cognitive Science Society*'
