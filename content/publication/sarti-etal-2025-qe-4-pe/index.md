@@ -8,12 +8,11 @@ authors:
 - Malvina Nissim
 - Arianna Bisazza
 date: '2025-01-01'
-publishDate: '2025-09-04T13:35:22.627338Z'
+publishDate: '2025-09-04T14:56:25.597625Z'
 publication_types:
-- manuscript
+- article-journal
+publication: '*Transactions of the Association for Computational Linguistics*'
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2503.03044
 - name: URL
   url: https://arxiv.org/abs/2503.03044
 ---
