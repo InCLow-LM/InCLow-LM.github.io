@@ -46,9 +46,10 @@ superuser: false
 
 # Organizational groups that you belong to [No need to change]
 user_groups:
-  - Visitors
+  - Past members
+  # - Visitors
 ---
 
-Akari Haga is a PhD student at Nara Institute of Science and Technology, Japan. Currently, she is visiting at InCLow group, CLCG, University of Groningen.
+Akari Haga is a PhD student at Nara Institute of Science and Technology, Japan. In 2025, she spent 6 months at the InCLow group working on computational models of language acquisition, with a focus on Japanese.
 
 For more details, check her [homepage](https://akari000.github.io/).
