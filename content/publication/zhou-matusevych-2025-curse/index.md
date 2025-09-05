@@ -5,7 +5,7 @@ authors:
 - Yuwen Zhou
 - Yevgen Matusevych
 date: '2025-01-01'
-publishDate: '2025-09-04T16:00:32.865733Z'
+publishDate: '2025-09-05T12:18:24.414752Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Fourth Workshop on Generation, Evaluation and Metrics
