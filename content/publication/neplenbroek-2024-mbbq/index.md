@@ -6,7 +6,7 @@ authors:
 - Arianna Bisazza
 - Raquel Fernández
 date: '2024-05-01'
-publishDate: '2025-09-04T16:00:32.639594Z'
+publishDate: '2025-09-05T12:18:24.181613Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Conference on Language Modeling (CoLM)*'
