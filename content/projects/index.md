@@ -45,7 +45,7 @@ sections:
 
         To pursue this line of work, we've been fortunate to supervise two PhD students funded by the China Scholarship Council: Yuchen Lian and Yuqing Zhang.
 
-        Key people: Yuqing, Yuchen, Arianna, Tessa Verhoef 
+        Key people: Yuqing, Yuchen, Arianna & Tessa Verhoef (Leiden University)
 
         **********************************************************************************
   - block: markdown
