@@ -8,7 +8,7 @@ authors:
 - Gertjan van Noord
 - Arianna Bisazza
 date: '2024-04-01'
-publishDate: '2025-09-05T21:21:39.887526Z'
+publishDate: '2025-09-06T23:24:15.545632Z'
 publication_types:
 - article-journal
 publication: '*Transactions of the Association for Computational Linguistics*'
