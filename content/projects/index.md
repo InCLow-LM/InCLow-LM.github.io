@@ -23,9 +23,9 @@ sections:
         [LESSEN Project](https://lessen-project.nl/) [2023-]:
 
         LESSEN is an NWO-funded Netherlands-based consortium bringing together academic and industrial partners working on **safe and efficient chat-based AI assistants**, with a focus on low-resource (retail) domains. Example partners are Albert Heijn, bol.com or KPN (Dutch telecommunication company), all of which handle large amounts of user requests daily through chatbots.
-        Within this consortium, we specifically focus on studying and improving LLMs' abilities to **answer user requests accurately and consistently across different languages**, for instance by using Retrieval-Augmented Generation techniques and inspecting model internals to attribute model answers to a specific textual source.
+        Within this consortium, we specifically focus on studying and improving LLMs' abilities to **answer user requests accurately and consistently across different languages**, for instance by using Retrieval-Augmented Generation techniques and inspecting model internals to attribute model answers to a specific textual source. In collaboration with UvA colleagues, we also study the impact of social biases and stereotypes on the behavior of multilingual LLMs.
 
-        Key people: Jirui, Arianna, Raquel Fernández
+        Key people: Jirui & Arianna + Vera Neplenbroek & Raquel Fernández (University of Amsterdam)
 
         **********************************************************************************
 
@@ -34,7 +34,7 @@ sections:
         InDeep is a NWO-funded research consortium working on the interpretability of deep learning models of text, language, speech and music.
         Within this consortium, we focus on the **application of model-internal analysis techniques to LLM generation tasks**, such as **machine translation** and RAG-based question answering. We aim at bridging the gap betweem scientific advances and user needs by developing toolkits that **facilitate access to advanced interpretability techniques** (e.g. InSeq, MIRAGE) and by conducting **user studies with professional translators**.
 
-        Key people: Gabriele, Arianna, Malvina Nissim, Grzegorz Chrupała
+        Key people: Gabriele, Arianna, Malvina Nissim & Grzegorz Chrupała (Tilburg University)
 
         **********************************************************************************
 
