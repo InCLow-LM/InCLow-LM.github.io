@@ -58,6 +58,7 @@ sections:
       title: Latest News
       subtitle:
       text: |
+        [October 2025] The [collaboration paper](https://arxiv.org/abs/2505.22888) led by [Jirui](https://betswish.github.io/) and [Shan](https://shanchen.dev/) (from Harvard University) is featured in the [State of AI Report 2025](https://www.stateof.ai/).
         **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou! Our paper topics in brief:
         unsupervised word-quality estimation for MT post-editing ([Gabriele](https://inclow-lm.github.io/author/gabriele-sarti)),
         controlling the thinking language in large reasoning models ([Jirui](https://inclow-lm.github.io/author/jirui-qi)),
