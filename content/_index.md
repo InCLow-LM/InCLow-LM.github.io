@@ -58,9 +58,13 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        [October 2025] The [collaboration paper](https://arxiv.org/abs/2505.22888) led by [Jirui](https://betswish.github.io/) and [Shan](https://shanchen.dev/) (from Harvard University) is featured in the [State of AI Report 2025](https://www.stateof.ai/).
+        **[Dec 2025]** Yuchen Lian (Leiden & Xi’an Jiaotong University) successfully defended her thesis "Emergence of Linguistic Universals in Neural Agents via Artificial Language Learning and Communication". Congratulations!!
+
+        **[Dec 2025]** Gabriele successfully defended his thesis "From Insights to Impact: Actionable Interpretability for Neural Machine Translation", with a *cum laude* mention. Congratulations!!
+
+        [Oct 2025] The [collaboration paper](https://arxiv.org/abs/2505.22888) led by [Jirui](https://betswish.github.io/) and [Shan](https://shanchen.dev/) (from Harvard University) is featured in the [State of AI Report 2025](https://www.stateof.ai/).
     
-        **[Aug 2025]** EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou! Our paper topics in brief:
+        [Aug 2025] EMNLP notifications came in. We're excited to share that InClow will bring 4 Main, 2 Findings and 2 TACL papers to Suzhou! Our paper topics in brief:
         unsupervised word-quality estimation for MT post-editing ([Gabriele](https://inclow-lm.github.io/author/gabriele-sarti)),
         controlling the thinking language in large reasoning models ([Jirui](https://inclow-lm.github.io/author/jirui-qi)),
         a neural-agent communication framework to study lexical change ([Yuqing](https://inclow-lm.github.io/author/yuqing-zhang)),
@@ -81,9 +85,9 @@ sections:
         
         [April 2025] [Jirui](https://betswish.github.io/) gave two talks at [KPN](https://www.kpn.com/algemeen/english) and [University of Amsterdam](https://www.uva.nl/en) on three topics on Retrieval Augmented Generation ([MIRAGE](https://aclanthology.org/2024.emnlp-main.347/), [likelihood gauges answer accuracy](https://aclanthology.org/2025.naacl-long.78/), and [Consistency in Multilingual Context Utilization](https://arxiv.org/abs/2504.00597))
 
-        [Mar 2025] [Arianna](https://www.cs.rug.nl/~bisazza/) gave a keynote talk at [NoDaLiDa/Baltic-HLT 2025](https://sites.google.com/view/nodalida-bhlt2025/keynote-speakers), titled "Not all Language Models need to be Large: Studying Language Evolution and Acquisition with Modern Neural Networks".
+##        [Mar 2025] [Arianna](https://www.cs.rug.nl/~bisazza/) gave a keynote talk at [NoDaLiDa/Baltic-HLT 2025](https://sites.google.com/view/nodalida-bhlt2025/keynote-speakers), titled "Not all Language Models need to be Large: Studying Language Evolution and Acquisition with Modern Neural Networks".
         
-        [Feb 2025] PhD student [Akari Haga](https://akari000.github.io/about/) from NAIST, Japan, joined us for a 6-month visit. She works on BabyLM-style models for Japanese.
+##        [Feb 2025] PhD student [Akari Haga](https://akari000.github.io/about/) from NAIST, Japan, joined us for a 6-month visit. She works on BabyLM-style models for Japanese.
 
 
     design:
