@@ -58,7 +58,7 @@ sections:
       title: Latest News
       subtitle:
       text: |
-        **[Dec 2025]** Yuchen Lian (Leiden & Xi’an Jiaotong University) successfully defended her thesis "Emergence of Linguistic Universals in Neural Agents via Artificial Language Learning and Communication". Congratulations!!
+        **[Dec 2025]** PhD student Yuchen Lian (Leiden University & Xi’an Jiaotong University) supervised by Arianna and Tessa Verhoef successfully defended her thesis "Emergence of Linguistic Universals in Neural Agents via Artificial Language Learning and Communication". Congratulations!!
 
         **[Dec 2025]** Gabriele successfully defended his thesis "From Insights to Impact: Actionable Interpretability for Neural Machine Translation", with a *cum laude* mention. Congratulations!!
 
