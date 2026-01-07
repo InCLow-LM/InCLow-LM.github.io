@@ -57,9 +57,14 @@ sections:
       title: Latest News
       subtitle:
       text: |
+        **[Jan 2026]** EACL notifications are out! We have three papers accepted at Main:
+    "BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data" (led by Jaap),
+    "Steering LLMs for Machine Translation Personalization" (led by Daniel & Gabriele),
+    "Assessing the Impact of Typological Features on Multilingual MT in the Age of LLMs" (led by Vitalii Hirak).
+        
         **[Jan 2026]** The [GroNLP](https://www.rug.nl/research/clcg/research/cl) group of which we're part, is launching a brand new [Research Master in Natural Language Processing](https://www.rug.nl/masters/natural-language-processing-research/?lang=en) at the University of Groningen, starting Sept 2026. The program focuses on strong technical skills in language-based generative AI, and prepares you to contribute to cutting-edge research in academia or industry with a human-centred perspective. Come study with us and spread the [news](https://www.linkedin.com/posts/malvina-nissim-22094634a_natural-language-processing-activity-7407712688656695296-9Zfs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXz6W8B6G4UPQRAVDVRHhC2mkv0i6fZO24)!
 
-        **[Dec 2025]** PhD student Yuchen Lian (Leiden University & Xi’an Jiaotong University) supervised by Arianna and Tessa Verhoef successfully defended her thesis [Emergence of Linguistic Universals in Neural Agents via Artificial Language Learning and Communication](https://hdl.handle.net/1887/4285152). Congratulations!!
+        **[Dec 2025]** PhD student Yuchen Lian (Leiden/Xi’anJiaotong University) supervised by Arianna and Tessa Verhoef successfully defended her thesis [Emergence of Linguistic Universals in Neural Agents via Artificial Language Learning and Communication](https://hdl.handle.net/1887/4285152) in Leiden. Congratulations!!
 
         **[Dec 2025]** Gabriele successfully defended his thesis [From Insights to Impact: Actionable Interpretability for Neural Machine Translation](https://research.rug.nl/en/publications/from-insights-to-impact-actionable-interpretability-for-neural-ma/), with a *cum laude* mention. Congratulations!!
 
