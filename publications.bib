@@ -215,7 +215,15 @@
 
 # Francesca Padovani
 
-
+@inproceedings{caittoolkit,
+    title = {CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions},
+    author = {Francesca Padovani and Xiulin Yang and Bastian Bunzeck and Jaap Jumelet and Yevgen Matusevych and Nathan Schneider and Arianna Bisazza},
+    booktitle = {Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL)},
+    year      = {2026},
+    month     = {July},
+    publisher = {Association for Computational Linguistics},
+    url       = {},
+}
 
 @inproceedings{padverblearning,
     title = {Is Child-Directed Language Optimized for Word Learning? A Computational Study of Verb Meaning Acquisition},
@@ -263,17 +271,26 @@
     abstract = "We investigate whether pre-training exclusively on dialogue data results in formally and functionally apt small language models. Based on this pre-trained llamalogue model, we employ a variety of fine-tuning strategies to enforce ``more communicative'' text generations by our models. Although our models underperform on most standard BabyLM benchmarks, they excel at dialogue continuation prediction in a minimal pair setting. While PPO fine-tuning has mixed to adversarial effects on our models, DPO fine-tuning further improves their performance on our custom dialogue benchmark."
 }
 
-@misc{padovani2025childdirectedlanguagedoesconsistently,
-      title={Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models}, 
-      author={Francesca Padovani and Jaap Jumelet and Yevgen Matusevych and Arianna Bisazza},
-      year={2025},
-      month={may},
-      eprint={2505.23689},
-      booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
-      howpublished = {Accepted at EMNLP 2025. arXiv preprint arXiv:2505.23689},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.23689}, 
+@inproceedings{padovani-etal-2025-child,
+    title = "Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models",
+    author = "Padovani, Francesca  and
+      Jumelet, Jaap  and
+      Matusevych, Yevgen  and
+      Bisazza, Arianna",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.999/",
+    doi = "10.18653/v1/2025.emnlp-main.999",
+    pages = "19735--19756",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Seminal work by Huebner et al. (2021) showed that language models (LMs) trained on English Child-Directed Language (CDL) can outperform LMs trained on an equal amount of adult-directed text like Wikipedia. However, it remains unclear whether these results generalize across languages, architectures, and evaluation settings. We test this by comparing models trained on CDL vs. Wikipedia across two LM objectives (masked and causal), three languages (English, French, German), and three syntactic minimal pair benchmarks. Our results on these benchmarks show inconsistent benefits of CDL, which in most cases is outperformed by Wikipedia models. We then identify various shortcomings in these benchmarks, and introduce a novel testing methodology, FIT-CLAMS, which uses a frequency-controlled design to enable balanced comparisons across training corpora. Through minimal pair evaluations and regression analysis we show that training on CDL does not yield stronger generalizations for acquiring syntax and highlight the importance of controlling for frequency effects when evaluating syntactic ability."
 }
 
 @inproceedings{padovani2024automatic,
