@@ -57,6 +57,9 @@ sections:
       title: Latest News
       subtitle:
       text: |
+        **[May 2026]** We have a paper accepted at CONLL "CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions" (led by Francesca), where we introduce a Toolkit comprising a Dependency Parser and a POS Tagger for Child Directed Language and we show the benefit of using in-domain computational tools in an applied case study.
+        **[April 2026]** CogSci notifications are out! We have two papers accepted at Main: "Is Child-Directed Language Optimized for Word Learning? A Computational Study of Verb Meaning Acquisition" (led by Francesca), "Modeling Human-Like Color Naming Behavior in Context" (led by Yuqing).
+    
         **[Jan 2026]** EACL notifications are out! We have three papers accepted at Main: "BabyBabelLM: A Multilingual Benchmark of Developmentally Plausible Training Data" (led by Jaap), "Steering LLMs for Machine Translation Personalization" (led by Daniel & Gabriele), "Assessing the Impact of Typological Features on Multilingual MT in the Age of LLMs" (led by Vitalii Hirak).
         
         **[Jan 2026]** The [GroNLP](https://www.rug.nl/research/clcg/research/cl) group of which we're part, is launching a brand new [Research Master in Natural Language Processing](https://www.rug.nl/masters/natural-language-processing-research/?lang=en) at the University of Groningen, starting Sept 2026. The program focuses on strong technical skills in language-based generative AI, and prepares you to contribute to cutting-edge research in academia or industry with a human-centred perspective. Come study with us and spread the [news](https://www.linkedin.com/posts/malvina-nissim-22094634a_natural-language-processing-activity-7407712688656695296-9Zfs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAXz6W8B6G4UPQRAVDVRHhC2mkv0i6fZO24)!
