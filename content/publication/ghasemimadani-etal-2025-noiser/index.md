@@ -8,7 +8,7 @@ authors:
 - Pasquale Minervini
 - Andrea Passerini
 date: '2025-01-01'
-publishDate: '2025-09-06T23:24:15.464527Z'
+publishDate: '2026-05-13T09:20:40.296449Z'
 publication_types:
 - paper-conference
 publication: '*Second Conference on Language Modeling (COLM)*'
