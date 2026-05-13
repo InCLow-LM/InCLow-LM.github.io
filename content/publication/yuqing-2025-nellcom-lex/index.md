@@ -8,7 +8,7 @@ authors:
 - Gemma Boleda
 - Arianna Bisazza
 date: '2025-01-01'
-publishDate: '2026-05-13T09:20:40.274129Z'
+publishDate: '2026-05-13T09:29:40.532364Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: EMNLP 2025*'

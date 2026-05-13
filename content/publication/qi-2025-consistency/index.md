@@ -6,7 +6,7 @@ authors:
 - Raquel Fernández
 - Arianna Bisazza
 date: '2025-04-01'
-publishDate: '2026-05-13T09:20:40.204485Z'
+publishDate: '2026-05-13T09:29:40.448783Z'
 publication_types:
 - article-journal
 publication: '*arXiv preprint arXiv:2504.00597*'
