@@ -7,7 +7,7 @@ authors:
 - Willem Zuidema
 - Jaap Jumelet
 date: '2024-06-01'
-publishDate: '2026-05-13T10:09:31.416747Z'
+publishDate: '2026-05-13T11:42:32.653529Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: NAACL 2024*'
