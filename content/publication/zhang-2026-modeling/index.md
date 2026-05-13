@@ -6,11 +6,12 @@ authors:
 - Tessa Verhoef
 - Gemma Boleda
 - Arianna Bisazza
-date: '2026-01-01'
-publishDate: '2026-05-13T11:42:32.588419Z'
+date: '2026-07-01'
+publishDate: '2026-05-13T13:28:22.490916Z'
 publication_types:
 - paper-conference
-publication: '*Cognitive Science Society Annual Conference 2026*'
+publication: '*Proceedings of the 48th Annual Conference of the Cognitive Science
+  Society (CogSci)*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2604.25674

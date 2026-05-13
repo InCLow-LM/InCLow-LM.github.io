@@ -6,7 +6,7 @@ authors:
 - Jaap Jumelet
 - Arianna Bisazza
 date: '2025-11-01'
-publishDate: '2026-05-13T11:42:32.566702Z'
+publishDate: '2026-05-13T13:28:22.462720Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2025 Conference on Empirical Methods in Natural
