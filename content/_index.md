@@ -58,6 +58,8 @@ sections:
       subtitle:
       text: |
         **[May 2026]** Interested in analyzing Child Language with computational tools? We have released **the CAIT 🪁 Toolkit** comprising a Dependency Parser and a POS Tagger for *Child Directed Language*. You can access it at this [repository](https://github.com/fpadovani/CAIT-Toolkit/tree/main). In the paper "CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions" (led by Francesca and accepted at CONLL 2026), we show the benefit of using in-domain computational tools in an applied case study.
+
+        **[April 2026]** The [European Association for Machine Translation (EAMT)](https://eamt.org/) awarded [Gabriele](/author/gabriele-sarti/)'s PhD thesis [From Insights to Impact: Actionable Interpretability for Neural Machine Translation](https://research.rug.nl/en/publications/from-insights-to-impact-actionable-interpretability-for-neural-ma/) as the best dissertation on machine translation in a european institution for 2025. He will present it at the EAMT 2026 conference in Tilburg on June 13-15th, 2026!
     
         **[April 2026]** CogSci notifications are out! We have two papers accepted at Main: "Is Child-Directed Language Optimized for Word Learning? A Computational Study of Verb Meaning Acquisition" (led by Francesca), "Modeling Human-Like Color Naming Behavior in Context" (led by Yuqing).
     
