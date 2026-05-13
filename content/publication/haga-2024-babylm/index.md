@@ -8,7 +8,7 @@ authors:
 - Arianna Bisazza
 - Yohei Oseki
 date: '2024-11-01'
-publishDate: '2025-09-06T23:24:15.326668Z'
+publishDate: '2026-05-13T09:20:40.163917Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the BabyLM Challenge at CoNLL 2024*'

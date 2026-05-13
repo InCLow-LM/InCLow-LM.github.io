@@ -8,7 +8,7 @@ authors:
 - Martina Galletti
 - Daniele Nardi
 date: '2024-01-01'
-publishDate: '2025-09-06T23:24:15.419672Z'
+publishDate: '2026-05-13T09:20:40.257137Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 13th Workshop on Natural Language Processing for

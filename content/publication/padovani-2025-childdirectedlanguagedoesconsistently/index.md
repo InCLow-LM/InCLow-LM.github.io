@@ -7,7 +7,7 @@ authors:
 - Yevgen Matusevych
 - Arianna Bisazza
 date: '2025-05-01'
-publishDate: '2025-09-06T23:24:15.412875Z'
+publishDate: '2026-05-13T09:20:40.251282Z'
 publication_types:
 - manuscript
 publication: '*Proceedings of the 2025 Conference on Empirical Methods in Natural

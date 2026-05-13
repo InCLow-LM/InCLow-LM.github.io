@@ -6,7 +6,7 @@ authors:
 - Arianna Bisazza
 - Tessa Verhoef
 date: '2023-10-01'
-publishDate: '2025-09-06T23:24:15.353474Z'
+publishDate: '2026-05-13T09:20:40.187259Z'
 publication_types:
 - article-journal
 publication: '*Transactions of the Association for Computational Linguistics (TACL)*'

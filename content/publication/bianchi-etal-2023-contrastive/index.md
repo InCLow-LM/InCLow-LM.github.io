@@ -8,7 +8,7 @@ authors:
 - Gabriele Sarti
 - Dario Balestri
 date: '2023-01-01'
-publishDate: '2025-09-06T23:24:15.579847Z'
+publishDate: '2026-05-13T09:20:40.397647Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 9th Italian Conference on Computational Linguistics,
