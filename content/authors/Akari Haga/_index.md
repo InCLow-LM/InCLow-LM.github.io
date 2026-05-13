@@ -46,7 +46,7 @@ superuser: false
 
 # Organizational groups that you belong to [No need to change]
 user_groups:
-  - Past members
+  - Past visitors
   # - Visitors
 ---
 
