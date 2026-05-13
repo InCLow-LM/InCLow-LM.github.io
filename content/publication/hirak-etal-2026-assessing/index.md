@@ -6,7 +6,7 @@ authors:
 - Jaap Jumelet
 - Arianna Bisazza
 date: '2026-03-01'
-publishDate: '2026-05-13T11:42:32.578132Z'
+publishDate: '2026-05-13T13:28:22.477407Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 19th Conference of the European Chapter of the Association
