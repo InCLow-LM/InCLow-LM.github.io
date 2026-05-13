@@ -304,15 +304,112 @@
 
 # Ezgi Başar
 
-@article{bacsar2025turblimp,
-  title={TurBLiMP: A Turkish Benchmark of Linguistic Minimal Pairs},
-  author={Ba{\c{s}}ar, Ezgi and Padovani, Francesca and Jumelet, Jaap and Bisazza, Arianna},
-  booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
-  journal={arXiv preprint arXiv:2506.13487},
-  year={2025}
+@inproceedings{basar-bisazza-2026-morphology,
+    title = "A Morphology-Aware Evaluation of {T}urkish Syntax in Large Language Models",
+    author = "Ba{\c{s}}ar, Ezgi  and
+      Bisazza, Arianna",
+    editor = {Oflazer, Kemal  and
+      K{\"o}ksal, Abdullatif  and
+      Varol, Onur},
+    booktitle = "Proceedings of the Second Workshop Natural Language Processing for {T}urkic Languages ({SIGTURK} 2026)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.sigturk-1.9/",
+    doi = "10.18653/v1/2026.sigturk-1.9",
+    pages = "95--102",
+    ISBN = "979-8-89176-370-8",
+    abstract = "Minimal pair benchmarks have become a common approach for evaluating the syntactic knowledge of language models (LMs). However, the creation of such benchmarks often overlooks language-specific confounders that may affect model performance, particularly in the case of morphologically rich languages. In this paper, we investigate how surface-level factors such as morpheme count, subword count, and sentence length influence the performance of LMs on a Turkish benchmark of linguistic minimal pairs. We further analyze whether a tokenizer{'}s degree of alignment with morphological boundaries can serve as a proxy for model performance. Finally, we test whether the distribution of morphemes in a minimal pair benchmark can skew model performance. Our results show that while surface factors have limited predictive power, they might still serve as a systematic source of bias. Moreover, we find that morphological alignment can roughly correspond to model performance, and morpheme-level imbalances in the benchmark may have a significant influence on results."
+}
+
+@inproceedings{basar-etal-2025-turblimp,
+    title = "{T}ur{BL}i{MP}: A {T}urkish Benchmark of Linguistic Minimal Pairs",
+    author = "Ba{\c{s}}ar, Ezgi  and
+      Padovani, Francesca  and
+      Jumelet, Jaap  and
+      Bisazza, Arianna",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.834/",
+    doi = "10.18653/v1/2025.emnlp-main.834",
+    pages = "16495--16510",
+    ISBN = "979-8-89176-332-6",
+    abstract = "We introduce TurBLiMP, the first Turkish benchmark of linguistic minimal pairs, designed to evaluate the linguistic abilities of monolingual and multilingual language models (LMs). Covering 16 linguistic phenomena with 1000 minimal pairs each, TurBLiMP fills an important gap in linguistic evaluation resources for Turkish. In designing the benchmark, we give extra attention to two properties of Turkish that remain understudied in current syntactic evaluations of LMs, namely word order flexibility and subordination through morphological processes. Our experiments on a wide range of LMs and a newly collected set of human acceptability judgments reveal that even cutting-edge Large LMs still struggle with grammatical phenomena that are not challenging for humans, and may also exhibit different sensitivities to word order and morphological complexity compared to humans."
 }
 
 # Jaap Jumelet
+
+@inproceedings{jumelet-etal-2026-babybabellm,
+    title = "{B}aby{B}abel{LM}: A Multilingual Benchmark of Developmentally Plausible Training Data",
+    author = "Jumelet, Jaap  and
+      Fourtassi, Abdellah  and
+      Haga, Akari  and
+      Bunzeck, Bastian  and
+      Shandilya, Bhargav  and
+      Galvan-Sosa, Diana  and
+      Haznitrama, Faiz Ghifari  and
+      Padovani, Francesca  and
+      Meyer, Francois  and
+      Hu, Hai  and
+      Etxaniz, Julen  and
+      Prevot, Laurent  and
+      He, Linyang  and
+      Grandury, Mar{\'i}a  and
+      Marcheva, Mila  and
+      Foroutan, Negar  and
+      Theodoropoulos, Nikitas  and
+      Sadeghi, Pouya  and
+      Song, Siyuan  and
+      Salhan, Suchir  and
+      Zhou, Susana  and
+      Paniv, Yurii  and
+      Zhang, Ziyin  and
+      Bisazza, Arianna  and
+      Warstadt, Alex  and
+      Choshen, Leshem",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.152/",
+    doi = "10.18653/v1/2026.eacl-long.152",
+    pages = "3297--3329",
+    ISBN = "979-8-89176-380-7",
+    abstract = "We present BabyBabelLM, a multilingual collection of datasets modeling the language a person observes from birth until they acquire a native language. We curate developmentally plausible pretraining data aiming to cover the equivalent of 100M English words of content in each of 45 languages. We compile evaluation suites and train baseline models in each language. BabyBabelLM aims to facilitate multilingual pretraining and cognitive modeling."
+}
+
+@inproceedings{hirak-etal-2026-assessing,
+    title = "Assessing the Impact of Typological Features on Multilingual Machine Translation in the Age of Large Language Models",
+    author = "Hirak, Vitalii  and
+      Jumelet, Jaap  and
+      Bisazza, Arianna",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.109/",
+    doi = "10.18653/v1/2026.eacl-long.109",
+    pages = "2416--2434",
+    ISBN = "979-8-89176-380-7",
+    abstract = "Despite major advances in multilingual modeling, large quality disparities persist across languages. Besides the obvious impact of uneven training resources, typological properties have also been proposed to determine the intrinsic difficulty of modeling a language. The existing evidence, however, is mostly based on small monolingual language models or bilingual translation models trained from scratch. We expand on this line of work by analyzing two large pre-trained multilingual translation models, NLLB-200 and Tower+, which are state-of-the-art representatives of encoder-decoder and decoder-only machine translation, respectively. Based on a broad set of languages, we find that target language typology drives translation quality of both models, even after controlling for more trivial factors, such as data resourcedness and writing script. Additionally, languages with certain typological properties benefit more from a wider search of the output space, suggesting that such languages could profit from alternative decoding strategies beyond the standard left-to-right beam search. To facilitate further research in this area, we release a set of fine-grained typological properties for 212 languages of the FLORES+ MT evaluation benchmark."
+}
+
 @misc{jumelet2025multiblimp10massivelymultilingual,
       title={MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs}, 
       author={Jaap Jumelet and Leonie Weissweiler and Arianna Bisazza},
@@ -666,4 +763,28 @@
   pages     = {5043--5047},
   url       = {https://www.isca-archive.org/interspeech_2025/oneata25_interspeech.html},
   doi       = {10.21437/Interspeech.2025-343}
+}
+
+# Daniel Scalena
+
+@inproceedings{scalena-etal-2026-steering,
+    title = "Steering Large Language Models for Machine Translation Personalization",
+    author = "Scalena, Daniel  and
+      Sarti, Gabriele  and
+      Bisazza, Arianna  and
+      Fersini, Elisabetta  and
+      Nissim, Malvina",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.eacl-long.217/",
+    doi = "10.18653/v1/2026.eacl-long.217",
+    pages = "4681--4701",
+    ISBN = "979-8-89176-380-7",
+    abstract = "Large language models have simplified the production of personalized translations reflecting predefined stylistic constraints. However, these systems still struggle when stylistic requirements are implicitly represented by a set of examples, such as texts produced by a specific human translator. In this work, we explore various strategies for personalizing automatically generated translations when few examples are available, with a focus on the challenging domain of literary translation. We begin by determining the feasibility of the task and how style information is encoded within model representations. Then, we evaluate various prompting strategies and inference-time interventions for steering model generations towards a personalized style, with a particular focus on contrastive steering with sparse autoencoder (SAE) latents to identify salient personalization properties. We demonstrate that contrastive SAE steering yields robust style conditioning and translation quality, resulting in higher inference-time computational efficiency than prompting approaches. We further examine the impact of steering on model activations, finding that layers encoding personalization properties are impacted similarly by prompting and SAE steering, suggesting a similar mechanism at play."
 }
