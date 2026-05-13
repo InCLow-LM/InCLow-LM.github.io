@@ -8,7 +8,7 @@ authors:
 - Malvina Nissim
 - Arianna Bisazza
 date: '2025-01-01'
-publishDate: '2026-05-13T09:29:40.569771Z'
+publishDate: '2026-05-13T10:09:31.374226Z'
 publication_types:
 - article-journal
 publication: '*Transactions of the Association for Computational Linguistics*'

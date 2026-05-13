@@ -10,7 +10,7 @@ authors:
 - Hendrik Buschmeier
 - Sina Zarrieß
 date: '2025-11-01'
-publishDate: '2026-05-13T09:29:40.499277Z'
+publishDate: '2026-05-13T10:09:31.302454Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the First BabyLM Workshop*'

@@ -7,7 +7,7 @@ authors:
 - Yevgen Matusevych
 - Arianna Bisazza
 date: '2026-07-01'
-publishDate: '2026-05-13T09:29:40.492907Z'
+publishDate: '2026-05-13T10:09:31.296226Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 48th Annual Conference of the Cognitive Science

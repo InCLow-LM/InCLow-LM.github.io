@@ -6,7 +6,7 @@ authors:
 - Arianna Bisazza
 - Raquel Fernández
 date: '2025-07-01'
-publishDate: '2026-05-13T09:29:40.395416Z'
+publishDate: '2026-05-13T10:09:31.205972Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: ACL 2025*'
