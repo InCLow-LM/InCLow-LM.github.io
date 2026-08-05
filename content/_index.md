@@ -57,7 +57,12 @@ sections:
       title: Latest News
       subtitle:
       text: |
+
+        **[June 2026]** Arianna will be on of the PC chairs for ACL 2027 to be held in August of next year, in Kyoto. Expect her email response times to get longer, and to decline most invitations to review or serve in committees etc. => Survival mode!
+
         **[May 2026]** Interested in analyzing Child Language with computational tools? We have released **the CAIT 🪁 Toolkit** comprising a Dependency Parser and a POS Tagger for *Child Directed Language*. You can access it at this [repository](https://github.com/fpadovani/CAIT-Toolkit/tree/main). In the paper "CAIT: A Syntactic Parsing Toolkit for Child–Adult InTeractions" (led by Francesca and accepted at CONLL 2026), we show the benefit of using in-domain computational tools in an applied case study.
+
+        **[April 2026]** Double celebration! [Jaap](/author/jaap-jumelet/) has received the [BNVKI 2026 Dissertation Award](https://ii.tudelft.nl/bnvki/bnvki-2026-phd-dissertation-award-results/) for his PhD thesis [Finding Structure in Language Models](https://arxiv.org/abs/2411.16433), from BNVKI the Benelux Association for Artificial Intelligence.
 
         **[April 2026]** The [European Association for Machine Translation (EAMT)](https://eamt.org/) awarded [Gabriele](/author/gabriele-sarti/)'s PhD thesis [From Insights to Impact: Actionable Interpretability for Neural Machine Translation](https://research.rug.nl/en/publications/from-insights-to-impact-actionable-interpretability-for-neural-ma/) as the best dissertation on machine translation in a european institution for 2025. He will present it at the EAMT 2026 conference in Tilburg on June 13-15th, 2026!
     
