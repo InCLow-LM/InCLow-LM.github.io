@@ -53,9 +53,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:a.bisazza@rug.nl'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:a.bisazza@rug.nl'
   - icon: user
     icon_pack: fas
     link: https://www.cs.rug.nl/~bisazza/
