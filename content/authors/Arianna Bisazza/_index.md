@@ -89,6 +89,9 @@ As part of a collaboration with Tessa Verhoef (Leiden University), she co-superv
 
 For more details, check her [homepage](https://www.cs.rug.nl/~bisazza/).
 
+**[READ THIS BEFORE YOU EMAIL ME]**
+I receive many (many!) emails from bright and ambitious students across the world. Unfortunately, I cannot reply all of them. For undergrad students looking for research internship opportunities: Please save the effort! I don't take any interns from external universities due to an already high supervision load. As for PhD positions, I don't have any openings at the moment. Whenever I do, I will place an ad on the homepage.
+
 <!-- She is passionate about the statistical modeling of human languages, particularly in a multilingual context. Her long-term goal is to design robust language processing algorithms that can adapt to the large variety of linguistic phenomena observed around the world. -->
 <!-- Among others, she work towards improving the quality of Machine Translation for challenging language pairs, and making state-of-the art NLP models more interpretable. -->
 <!-- As a cross-disciplinary research enthusiast, she is interested in enhancing research on human language processing or language evolution with computational modeling tools. -->
