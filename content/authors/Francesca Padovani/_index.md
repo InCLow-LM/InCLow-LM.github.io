@@ -79,6 +79,6 @@ user_groups:
   # - Visitors
 ---
 
-Francesca is a first year PhD at InCLow, working at the intersection between Language Acquision and Language Modeling. She is interested in understanding how infants learn and process language and how the child-directed language signal can be leveraged to train cognitively more plausible models.
+Francesca is a third year PhD at InCLow, working at the intersection between Language Acquisition and Language Modeling. She is interested in understanding how infants learn and process language and how the child-directed language signal can be leveraged to train cognitively more plausible models. She is also interested in training and evaluating multilingual models and in testing optimization and transfer techniques for low-resource language modeling inspired by how human cognition and human biases.   
 
 For more details, check his/her [homepage](https://fpadovani.github.io/).
